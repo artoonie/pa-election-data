@@ -1,0 +1,2353 @@
+year,month,day,electiontype,office,num candidates,percent winner won with
+2018,11,6,general,U.S. Senate,65,0.21552563661310845
+2018,11,6,general,Governor,127,0.16526185192772722
+2018,11,6,general,U.S. House,170,0.08309022955988131
+2018,11,6,general,State House,745,0.008114417047428981
+2018,11,6,general,Straight Party,11,0.28547083472132123
+2018,11,6,general,GOVERNOR,8,0.3368317655283488
+2018,11,6,general,State Senate,113,0.04888629745397084
+2018,11,6,general,State Senate�,2,0.6688372093023256
+2018,11,6,general,REPRESENTATIVE IN CONGRESS,4,0.5210460014769124
+2018,11,6,general,SPECIAL ELECTION REPRESENTATIVE IN CONGRESS,4,0.5639024543441735
+2018,11,6,general,SENATOR IN THE GENERAL ASSEMBLY ,8,0.1778114595662429
+2018,11,6,general,REPRESENTATIVE IN THE GENERAL ASSEMBLY ,12,0.1869475350719029
+2018,11,6,general,SENATOR IN THE GENERAL ASSEMBLY  ,3,0.7696293343961738
+2018,11,6,general,REPRESENTATIVE IN CONGRESS DISTRICT ,2,0.538996138996139
+2018,11,6,general,U. S. Senate,1,1.0
+2018,11,6,general,CITY BOND QUESTION,2,0.7184273502164876
+2018,11,6,general,United States Senator,4,0.6287355892997053
+2018,11,6,general,State Representative,1,1.0
+2018,11,6,general,Allegheny County Home Rule Charter Amend,2,0.5156173413661749
+2018,11,6,general,Bethel Park Home Rule Charter Amend #1,2,0.657672093321369
+2018,11,6,general,Bethel Park Home Rule Charter Amend #2,2,0.7273441078322319
+2018,11,6,general,Bethel Park Home Rule Charter Amend #3,2,0.5069586438889255
+2018,11,6,general,Bethel Park Home Rule Charter Amend #4,2,0.6221564140530355
+2018,11,6,general,Monroeville Home Rule Charter Amend #1,2,0.575534525061339
+2018,11,6,general,Monroeville Home Rule Charter Amend #2,2,0.5721330583699453
+2018,11,6,general,Monroeville Home Rule Charter Amend #3,2,0.7337356882932458
+2018,11,6,general,Monroeville Home Rule Charter Amend #4,2,0.7513123943411335
+2018,11,6,general,Monroeville Home Rule Charter Amend #5,2,0.5719325007150348
+2018,11,6,general,West Deer Home Rule Charter Amend #1,2,0.6300702028081123
+2018,11,6,general,West Deer Home Rule Charter Amend #2,2,0.7109405745769383
+2018,11,6,general,West Deer Home Rule Charter Amend #3,2,0.6254416961130742
+2018,11,6,general,West Deer Home Rule Charter Amend #4,2,0.6591136956085824
+2018,11,6,general,General Assembly,23,0.09328602675106591
+2018,11,6,general,State Assembly,13,0.1626471418695902
+2018,11,6,general,State Senate ,29,0.8616466318893173
+2018,11,6,general,U.S. House†,4,0.6080529553899572
+2018,11,6,general,SENATOR IN THE GENERAL ASSEMBLY 46TH DISTRICT,2,0.5301615015277171
+2018,11,6,general,REPRESENTATIVE IN THE GEN. ASSEMBLY 16TH DISTRICT,1,1.0
+2018,11,6,general,REPRESENTATIVE IN THE GEN. ASSEMBLY 15TH DISTRICT,2,0.5726980992347569
+2018,11,6,general,REPRESENTATIVE IN THE GEN. ASSEMBLY 10TH DISTRICT,2,0.7390754369825207
+2018,11,6,general,REPRESENTATIVE IN THE GEN. ASSEMBLY 14TH DISTRICT,2,0.6329476809665199
+2020,6,2,primary,Attorney General,79,0.482619064204672
+2020,6,2,primary,Auditor General,68,0.297062447990704
+2020,6,2,primary,Delegate to the Democratic National Convention 12th District,9,0.1965789002328497
+2020,6,2,primary,Delegate to the Democratic National Convention 9th District,7,0.24599015404160712
+2020,6,2,primary,President,108,0.20718104630675024
+2020,6,2,primary,U.S. House,173,0.0666268209415553
+2020,6,2,primary,General Assembly,573,0.009477193074916335
+2020,6,2,primary,State Senate,94,0.03533305866382586
+2020,6,2,primary,State Treasurer,66,0.476075980332739
+2020,6,2,primary,Alternate Delegate to the Republican National Convention 12th District,4,0.3606276371308017
+2020,6,2,primary,Alternate Delegate to the Republican National Convention 9th District,4,0.3420882669537137
+2020,6,2,primary,Delegate to the Republican National Convention 12th District,9,0.16365871375090799
+2020,6,2,primary,Delegate to the Republican National Convention 9th District,11,0.1697467488021903
+2020,6,2,primary,Delegates to the National Convention 17th District,20,0.10015893726247418
+2020,6,2,primary,Delegates to the National Convention 18th District,24,0.0814279499421914
+2020,6,2,primary,Alternate Delegates to the National Convention 17t,7,0.2804129995809045
+2020,6,2,primary,Alternate Delegates to the National Convention 18t,6,0.42677181932223907
+2020,6,2,primary,County Committeeman ALEPPO,2,0.6125
+2020,6,2,primary,County Committeeman ASPINWALL DIST 1,1,1.0
+2020,6,2,primary,County Committeeman ASPINWALL DIST 2,1,1.0
+2020,6,2,primary,County Committeeman ASPINWALL DIST 3,1,1.0
+2020,6,2,primary,County Committeeman AVALON WARD 1,1,1.0
+2020,6,2,primary,County Committeeman AVALON WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman AVALON WARD 2 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman AVALON WARD 3 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman AVALON WARD 3 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman AVALON WARD 3 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman BALDWIN BR DIST 1,1,1.0
+2020,6,2,primary,County Committeeman BALDWIN BR DIST 2,1,1.0
+2020,6,2,primary,County Committeeman BALDWIN BR DIST 3,1,1.0
+2020,6,2,primary,County Committeeman BALDWIN BR DIST 4,1,1.0
+2020,6,2,primary,County Committeeman BALDWIN BR DIST 5,1,1.0
+2020,6,2,primary,County Committeeman BALDWIN BR DIST 6,1,1.0
+2020,6,2,primary,County Committeeman BALDWIN BR DIST 7,1,1.0
+2020,6,2,primary,County Committeeman BALDWIN BR DIST 8,1,1.0
+2020,6,2,primary,County Committeeman BALDWIN BR DIST 9,1,1.0
+2020,6,2,primary,County Committeeman BALDWIN BR DIST 10,1,1.0
+2020,6,2,primary,County Committeeman BALDWIN BR DIST 11,1,1.0
+2020,6,2,primary,County Committeeman BALDWIN BR DIST 12,1,1.0
+2020,6,2,primary,County Committeeman BALDWIN BR DIST 13,1,1.0
+2020,6,2,primary,County Committeeman BALDWIN BR DIST 14,1,1.0
+2020,6,2,primary,County Committeeman BALDWIN BR DIST 15,1,1.0
+2020,6,2,primary,County Committeeman BALDWIN BR DIST 16,1,1.0
+2020,6,2,primary,County Committeeman BALDWIN BR DIST 17,1,1.0
+2020,6,2,primary,County Committeeman BALDWIN BR DIST 18,1,1.0
+2020,6,2,primary,County Committeeman BALDWIN TP DIST 1,1,1.0
+2020,6,2,primary,County Committeeman BALDWIN TP DIST 2,1,1.0
+2020,6,2,primary,County Committeeman BELL ACRES,2,0.9954128440366973
+2020,6,2,primary,County Committeeman BELLEVUE WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman BELLEVUE WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman BELLEVUE WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman BELLEVUE WARD 2 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman BELLEVUE WARD 3 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman BELLEVUE WARD 3 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman BEN AVON DIST 1,1,1.0
+2020,6,2,primary,County Committeeman BEN AVON DIST 2,1,1.0
+2020,6,2,primary,County Committeeman BEN AVON HT,1,1.0
+2020,6,2,primary,County Committeeman BETHEL PARK WARD 1 DIST 1,2,0.990990990990991
+2020,6,2,primary,County Committeeman BETHEL PARK WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman BETHEL PARK WARD 1 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman BETHEL PARK WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman BETHEL PARK WARD 2 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman BETHEL PARK WARD 2 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman BETHEL PARK WARD 3 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman BETHEL PARK WARD 3 DIST 2,2,0.993103448275862
+2020,6,2,primary,County Committeeman BETHEL PARK WARD 3 DIST 3,2,0.9943502824858758
+2020,6,2,primary,County Committeeman BETHEL PARK WARD 4 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman BETHEL PARK WARD 4 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman BETHEL PARK WARD 4 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman BETHEL PARK WARD 5 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman BETHEL PARK WARD 5 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman BETHEL PARK WARD 5 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman BETHEL PARK WARD 6 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman BETHEL PARK WARD 6 DIST 2,2,0.9922480620155039
+2020,6,2,primary,County Committeeman BETHEL PARK WARD 6 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman BETHEL PARK WARD 7 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman BETHEL PARK WARD 7 DIST 2,2,0.9933333333333333
+2020,6,2,primary,County Committeeman BETHEL PARK WARD 7 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman BETHEL PARK WARD 8 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman BETHEL PARK WARD 8 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman BETHEL PARK WARD 8 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman BETHEL PARK WARD 8 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman BETHEL PARK WARD 9 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman BETHEL PARK WARD 9 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman BETHEL PARK WARD 9 DIST 3,2,0.9856459330143541
+2020,6,2,primary,County Committeeman BLAWNOX,1,1.0
+2020,6,2,primary,County Committeeman BRACKENRIDGE WARD 1,1,1.0
+2020,6,2,primary,County Committeeman BRACKENRIDGE WARD 2,1,1.0
+2020,6,2,primary,County Committeeman BRACKENRIDGE WARD 3,1,1.0
+2020,6,2,primary,County Committeeman BRADDOCK WARD 1,1,1.0
+2020,6,2,primary,County Committeeman BRADDOCK HL DIST 1,1,1.0
+2020,6,2,primary,County Committeeman BRADDOCK HL DIST 2,1,1.0
+2020,6,2,primary,County Committeeman BRADFORD WOODS,2,0.9800995024875622
+2020,6,2,primary,County Committeeman BRENTWOOD DIST 1,1,1.0
+2020,6,2,primary,County Committeeman BRENTWOOD DIST 2,1,1.0
+2020,6,2,primary,County Committeeman BRENTWOOD DIST 3,1,1.0
+2020,6,2,primary,County Committeeman BRENTWOOD DIST 4,1,1.0
+2020,6,2,primary,County Committeeman BRENTWOOD DIST 5,1,1.0
+2020,6,2,primary,County Committeeman BRENTWOOD DIST 6,1,1.0
+2020,6,2,primary,County Committeeman BRENTWOOD DIST 7,1,1.0
+2020,6,2,primary,County Committeeman BRENTWOOD DIST 8,1,1.0
+2020,6,2,primary,County Committeeman BRENTWOOD DIST 9,1,1.0
+2020,6,2,primary,County Committeeman BRENTWOOD DIST 10,1,1.0
+2020,6,2,primary,County Committeeman BRIDGEVILLE DIST 1,1,1.0
+2020,6,2,primary,County Committeeman BRIDGEVILLE DIST 2,1,1.0
+2020,6,2,primary,County Committeeman BRIDGEVILLE DIST 3,1,1.0
+2020,6,2,primary,County Committeeman BRIDGEVILLE DIST 4,1,1.0
+2020,6,2,primary,County Committeeman CARNEGIE WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman CARNEGIE WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman CARNEGIE WARD 1 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman CARNEGIE WARD 1 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman CARNEGIE WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman CARNEGIE WARD 2 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman CARNEGIE WARD 2 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman CARNEGIE WARD 2 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman CASL SHANNON DIST 1,1,1.0
+2020,6,2,primary,County Committeeman CASL SHANNON DIST 2,1,1.0
+2020,6,2,primary,County Committeeman CASL SHANNON DIST 3,1,1.0
+2020,6,2,primary,County Committeeman CASL SHANNON DIST 4,1,1.0
+2020,6,2,primary,County Committeeman CASL SHANNON DIST 5,1,1.0
+2020,6,2,primary,County Committeeman CASL SHANNON DIST 6,1,1.0
+2020,6,2,primary,County Committeeman CASL SHANNON DIST 7,1,1.0
+2020,6,2,primary,County Committeeman CASL SHANNON DIST 8,1,1.0
+2020,6,2,primary,County Committeeman CHALFANT DIST 1,1,1.0
+2020,6,2,primary,County Committeeman CHESWICK DIST 1,1,1.0
+2020,6,2,primary,County Committeeman CHESWICK DIST 2,1,1.0
+2020,6,2,primary,County Committeeman CHURCHILL DIST 1,1,1.0
+2020,6,2,primary,County Committeeman CHURCHILL DIST 2,1,1.0
+2020,6,2,primary,County Committeeman CHURCHILL DIST 3,1,1.0
+2020,6,2,primary,County Committeeman CHURCHILL DIST 4,1,1.0
+2020,6,2,primary,County Committeeman CLAIRTON WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman CLAIRTON WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman CLAIRTON WARD 1 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman CLAIRTON WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman CLAIRTON WARD 3 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman CLAIRTON WARD 3 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman CLAIRTON WARD 3 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman CLAIRTON WARD 4 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman CLAIRTON WARD 4 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman COLLIER DIST 1,1,1.0
+2020,6,2,primary,County Committeeman COLLIER DIST 2,2,0.6228571428571429
+2020,6,2,primary,County Committeeman COLLIER DIST 3,1,1.0
+2020,6,2,primary,County Committeeman COLLIER DIST 4,1,1.0
+2020,6,2,primary,County Committeeman COLLIER DIST 5,1,1.0
+2020,6,2,primary,County Committeeman COLLIER DIST 6,1,1.0
+2020,6,2,primary,County Committeeman CORAOPOLIS WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman CORAOPOLIS WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman CORAOPOLIS WARD 2,1,1.0
+2020,6,2,primary,County Committeeman CORAOPOLIS WARD 3 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman CORAOPOLIS WARD 3 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman CORAOPOLIS WARD 4 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman CORAOPOLIS WARD 4 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman CRAFTON WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman CRAFTON WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman CRAFTON WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman CRAFTON WARD 3 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman CRAFTON WARD 3 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman CRESCENT WARD 1,1,1.0
+2020,6,2,primary,County Committeeman CRESCENT WARD 2,1,1.0
+2020,6,2,primary,County Committeeman DORMONT DIST 1,1,1.0
+2020,6,2,primary,County Committeeman DORMONT DIST 2,1,1.0
+2020,6,2,primary,County Committeeman DORMONT DIST 3,1,1.0
+2020,6,2,primary,County Committeeman DORMONT DIST 4,1,1.0
+2020,6,2,primary,County Committeeman DORMONT DIST 5,1,1.0
+2020,6,2,primary,County Committeeman DORMONT DIST 6,1,1.0
+2020,6,2,primary,County Committeeman DORMONT DIST 7,1,1.0
+2020,6,2,primary,County Committeeman DORMONT DIST 8,1,1.0
+2020,6,2,primary,County Committeeman DORMONT DIST 9,1,1.0
+2020,6,2,primary,County Committeeman DORMONT DIST 10,1,1.0
+2020,6,2,primary,County Committeeman DRAVOSBURG DIST 1,1,1.0
+2020,6,2,primary,County Committeeman DRAVOSBURG DIST 2,1,1.0
+2020,6,2,primary,County Committeeman DUQUESNE WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman DUQUESNE WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman DUQUESNE WARD 1 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman DUQUESNE WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman DUQUESNE WARD 2 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman DUQUESNE WARD 3 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman EAST DEER WARD 1,1,1.0
+2020,6,2,primary,County Committeeman EAST DEER WARD 2,2,0.9838709677419355
+2020,6,2,primary,County Committeeman E MCKEESPORT DIST 1,1,1.0
+2020,6,2,primary,County Committeeman E MCKEESPORT DIST 2,1,1.0
+2020,6,2,primary,County Committeeman E MCKEESPORT DIST 3,1,1.0
+2020,6,2,primary,County Committeeman E PITTSBURGH WARD 1,1,1.0
+2020,6,2,primary,County Committeeman E PITTSBURGH WARD 2,1,1.0
+2020,6,2,primary,County Committeeman E PITTSBURGH WARD 3,1,1.0
+2020,6,2,primary,County Committeeman EDGEWOOD DIST 1,2,0.98
+2020,6,2,primary,County Committeeman EDGEWOOD DIST 2,1,1.0
+2020,6,2,primary,County Committeeman EDGEWOOD DIST 3,1,1.0
+2020,6,2,primary,County Committeeman EDGEWORTH DIST 1,1,1.0
+2020,6,2,primary,County Committeeman EDGEWORTH DIST 2,1,1.0
+2020,6,2,primary,County Committeeman ELIZABETH BR,1,1.0
+2020,6,2,primary,County Committeeman ELIZABETH TP WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman ELIZABETH TP WARD 1 DIST 2,2,0.9606299212598425
+2020,6,2,primary,County Committeeman ELIZABETH TP WARD 2,1,1.0
+2020,6,2,primary,County Committeeman ELIZABETH TP WARD 3,2,0.988950276243094
+2020,6,2,primary,County Committeeman ELIZABETH TP WARD 4 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman ELIZABETH TP WARD 4 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman ELIZABETH TP WARD 5 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman ELIZABETH TP WARD 5 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman ELIZABETH TP WARD 6 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman ELIZABETH TP WARD 6 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman ELIZABETH TP WARD 7,2,0.9790209790209791
+2020,6,2,primary,County Committeeman EMSWORTH DIST 1,1,1.0
+2020,6,2,primary,County Committeeman EMSWORTH DIST 2,1,1.0
+2020,6,2,primary,County Committeeman ETNA WARD 1,1,1.0
+2020,6,2,primary,County Committeeman ETNA WARD 2,1,1.0
+2020,6,2,primary,County Committeeman ETNA WARD 3,1,1.0
+2020,6,2,primary,County Committeeman FAWN DIST 1,1,1.0
+2020,6,2,primary,County Committeeman FAWN DIST 2,1,1.0
+2020,6,2,primary,County Committeeman FINDLAY DIST 1,2,0.9862385321100917
+2020,6,2,primary,County Committeeman FINDLAY DIST 2,1,1.0
+2020,6,2,primary,County Committeeman FINDLAY DIST 3,2,0.9891891891891892
+2020,6,2,primary,County Committeeman FOREST HILLS DIST 1,1,1.0
+2020,6,2,primary,County Committeeman FOREST HILLS DIST 2,1,1.0
+2020,6,2,primary,County Committeeman FOREST HILLS DIST 3,1,1.0
+2020,6,2,primary,County Committeeman FOREST HILLS DIST 4,1,1.0
+2020,6,2,primary,County Committeeman FOREST HILLS DIST 5,1,1.0
+2020,6,2,primary,County Committeeman FOREST HILLS DIST 6,1,1.0
+2020,6,2,primary,County Committeeman FOREST HILLS DIST 7,1,1.0
+2020,6,2,primary,County Committeeman FOREST HILLS DIST 8,1,1.0
+2020,6,2,primary,County Committeeman FORWARD DIST 1,1,1.0
+2020,6,2,primary,County Committeeman FORWARD DIST 2,1,1.0
+2020,6,2,primary,County Committeeman FORWARD DIST 3,1,1.0
+2020,6,2,primary,County Committeeman FORWARD DIST 4,1,1.0
+2020,6,2,primary,County Committeeman FOX CHAPEL DIST 1,1,1.0
+2020,6,2,primary,County Committeeman FOX CHAPEL DIST 2,1,1.0
+2020,6,2,primary,County Committeeman FOX CHAPEL DIST 3,1,1.0
+2020,6,2,primary,County Committeeman FOX CHAPEL DIST 4,1,1.0
+2020,6,2,primary,County Committeeman FOX CHAPEL DIST 5,1,1.0
+2020,6,2,primary,County Committeeman FRANKLIN PK WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman FRANKLIN PK WARD 1 DIST 2,2,0.989247311827957
+2020,6,2,primary,County Committeeman FRANKLIN PK WARD 1 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman FRANKLIN PK WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman FRANKLIN PK WARD 2 DIST 2,3,0.5333333333333333
+2020,6,2,primary,County Committeeman FRANKLIN PK WARD 2 DIST 3,2,0.995575221238938
+2020,6,2,primary,County Committeeman FRANKLIN PK WARD 3 DIST 1,2,0.9791666666666666
+2020,6,2,primary,County Committeeman FRANKLIN PK WARD 3 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman FRANKLIN PK WARD 3 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman FRAZER,1,1.0
+2020,6,2,primary,County Committeeman GLASSPORT DIST 1,1,1.0
+2020,6,2,primary,County Committeeman GLASSPORT DIST 2,1,1.0
+2020,6,2,primary,County Committeeman GLASSPORT DIST 3,1,1.0
+2020,6,2,primary,County Committeeman GLASSPORT DIST 4,1,1.0
+2020,6,2,primary,County Committeeman GLASSPORT DIST 5,1,1.0
+2020,6,2,primary,County Committeeman GLASSPORT DIST 6,1,1.0
+2020,6,2,primary,County Committeeman GLENFIELD,1,1.0
+2020,6,2,primary,County Committeeman GREEN TREE DIST 1,1,1.0
+2020,6,2,primary,County Committeeman GREEN TREE DIST 2,1,1.0
+2020,6,2,primary,County Committeeman GREEN TREE DIST 3,1,1.0
+2020,6,2,primary,County Committeeman GREEN TREE DIST 4,1,1.0
+2020,6,2,primary,County Committeeman HAMPTON DIST 1,1,1.0
+2020,6,2,primary,County Committeeman HAMPTON DIST 2,1,1.0
+2020,6,2,primary,County Committeeman HAMPTON DIST 3,1,1.0
+2020,6,2,primary,County Committeeman HAMPTON DIST 4,1,1.0
+2020,6,2,primary,County Committeeman HAMPTON DIST 5,1,1.0
+2020,6,2,primary,County Committeeman HAMPTON DIST 6,1,1.0
+2020,6,2,primary,County Committeeman HAMPTON DIST 7,1,1.0
+2020,6,2,primary,County Committeeman HAMPTON DIST 8,2,0.9866666666666667
+2020,6,2,primary,County Committeeman HAMPTON DIST 9,2,0.9891304347826086
+2020,6,2,primary,County Committeeman HAMPTON DIST 10,1,1.0
+2020,6,2,primary,County Committeeman HAMPTON DIST 11,2,0.9875518672199171
+2020,6,2,primary,County Committeeman HAMPTON DIST 12,1,1.0
+2020,6,2,primary,County Committeeman HAMPTON DIST 13,1,1.0
+2020,6,2,primary,County Committeeman HARMAR DIST 1,1,1.0
+2020,6,2,primary,County Committeeman HARMAR DIST 2,1,1.0
+2020,6,2,primary,County Committeeman HARMAR DIST 3,1,1.0
+2020,6,2,primary,County Committeeman HARRISON WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman HARRISON WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman HARRISON WARD 1 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman HARRISON WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman HARRISON WARD 2 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman HARRISON WARD 3 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman HARRISON WARD 3 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman HARRISON WARD 4 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman HARRISON WARD 4 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman HARRISON WARD 5 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman HARRISON WARD 5 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman HAYSVILLE,1,1.0
+2020,6,2,primary,County Committeeman HEIDELBERG,2,0.9736842105263158
+2020,6,2,primary,County Committeeman HOMESTEAD WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman HOMESTEAD WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman HOMESTEAD WARD 3 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman INDIANA DIST 1,2,0.9917355371900827
+2020,6,2,primary,County Committeeman INDIANA DIST 2,1,1.0
+2020,6,2,primary,County Committeeman INDIANA DIST 3,1,1.0
+2020,6,2,primary,County Committeeman INDIANA DIST 4,1,1.0
+2020,6,2,primary,County Committeeman INDIANA DIST 5,1,1.0
+2020,6,2,primary,County Committeeman INGRAM DIST 1,1,1.0
+2020,6,2,primary,County Committeeman INGRAM DIST 2,1,1.0
+2020,6,2,primary,County Committeeman INGRAM DIST 3,1,1.0
+2020,6,2,primary,County Committeeman JEFFERSON HL DIST 1,1,1.0
+2020,6,2,primary,County Committeeman JEFFERSON HL DIST 2,2,0.9879518072289156
+2020,6,2,primary,County Committeeman JEFFERSON HL DIST 3,2,0.96
+2020,6,2,primary,County Committeeman JEFFERSON HL DIST 4,1,1.0
+2020,6,2,primary,County Committeeman JEFFERSON HL DIST 5,2,0.9789473684210527
+2020,6,2,primary,County Committeeman JEFFERSON HL DIST 6,1,1.0
+2020,6,2,primary,County Committeeman JEFFERSON HL DIST 8,1,1.0
+2020,6,2,primary,County Committeeman KENNEDY DIST 1,1,1.0
+2020,6,2,primary,County Committeeman KENNEDY DIST 2,2,0.9787234042553191
+2020,6,2,primary,County Committeeman KENNEDY DIST 3,2,0.9772727272727273
+2020,6,2,primary,County Committeeman KENNEDY DIST 4,1,1.0
+2020,6,2,primary,County Committeeman KENNEDY DIST 5,1,1.0
+2020,6,2,primary,County Committeeman KENNEDY DIST 6,1,1.0
+2020,6,2,primary,County Committeeman KILBUCK,2,0.9887640449438202
+2020,6,2,primary,County Committeeman LEET DIST 1,1,1.0
+2020,6,2,primary,County Committeeman LEET DIST 2,2,0.9926470588235294
+2020,6,2,primary,County Committeeman LEETSDALE,1,1.0
+2020,6,2,primary,County Committeeman LIBERTY DIST 1,1,1.0
+2020,6,2,primary,County Committeeman LIBERTY DIST 2,1,1.0
+2020,6,2,primary,County Committeeman LINCOLN,1,1.0
+2020,6,2,primary,County Committeeman MARSHALL DIST 1,2,0.9757575757575757
+2020,6,2,primary,County Committeeman MARSHALL DIST 2,2,0.9866666666666667
+2020,6,2,primary,County Committeeman MARSHALL DIST 3,2,0.9936305732484076
+2020,6,2,primary,County Committeeman MARSHALL DIST 4,1,1.0
+2020,6,2,primary,County Committeeman MARSHALL DIST 5,1,1.0
+2020,6,2,primary,County Committeeman MARSHALL DIST 6,1,1.0
+2020,6,2,primary,County Committeeman MARSHALL DIST 7,2,0.9878787878787879
+2020,6,2,primary,County Committeeman MCCANDLESS WARD 1 DIST 1,2,0.9732620320855615
+2020,6,2,primary,County Committeeman MCCANDLESS WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman MCCANDLESS WARD 1 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman MCCANDLESS WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman MCCANDLESS WARD 2 DIST 2,2,0.9937888198757764
+2020,6,2,primary,County Committeeman MCCANDLESS WARD 2 DIST 3,2,0.9565217391304348
+2020,6,2,primary,County Committeeman MCCANDLESS WARD 3 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman MCCANDLESS WARD 3 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman MCCANDLESS WARD 3 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman MCCANDLESS WARD 4 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman MCCANDLESS WARD 4 DIST 2,2,0.983739837398374
+2020,6,2,primary,County Committeeman MCCANDLESS WARD 4 DIST 3,2,0.9932432432432432
+2020,6,2,primary,County Committeeman MCCANDLESS WARD 5 DIST 1,2,0.9926470588235294
+2020,6,2,primary,County Committeeman MCCANDLESS WARD 5 DIST 2,2,0.9942196531791907
+2020,6,2,primary,County Committeeman MCCANDLESS WARD 5 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman MCCANDLESS WARD 6 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman MCCANDLESS WARD 6 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman MCCANDLESS WARD 6 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman MCCANDLESS WARD 7 DIST 1,2,0.9841269841269841
+2020,6,2,primary,County Committeeman MCCANDLESS WARD 7 DIST 2,2,0.9878048780487805
+2020,6,2,primary,County Committeeman MCCANDLESS WARD 7 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman MCDONALD,1,1.0
+2020,6,2,primary,County Committeeman MCKEESPORT WARD 3 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman MCKEESPORT WARD 5,1,1.0
+2020,6,2,primary,County Committeeman MCKEESPORT WARD 7 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman MCKEESPORT WARD 7 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman MCKEESPORT WARD 7 DIST 5,1,1.0
+2020,6,2,primary,County Committeeman MCKEESPORT WARD 7 DIST 6,1,1.0
+2020,6,2,primary,County Committeeman MCKEESPORT WARD 8 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman MCKEESPORT WARD 8 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman MCKEESPORT WARD 8 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman MCKEESPORT WARD 8 DIST 6,1,1.0
+2020,6,2,primary,County Committeeman MCKEESPORT WARD 9 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman MCKEESPORT WARD 9 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman MCKEESPORT WARD 10 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman MCKEESPORT WARD 10 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman MCKEESPORT WARD 11 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman MCKEESPORT WARD 11 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman MCKEESPORT WARD 11 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman MCKEESPORT WARD 12 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman MCKEES ROCKS WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman MCKEES ROCKS WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman MCKEES ROCKS WARD 2 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman MCKEES ROCKS WARD 3 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman MCKEES ROCKS WARD 3 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman MCKEES ROCKS WARD 3 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman MILLVALE DIST 1,1,1.0
+2020,6,2,primary,County Committeeman MILLVALE DIST 2,1,1.0
+2020,6,2,primary,County Committeeman MILLVALE DIST 3,1,1.0
+2020,6,2,primary,County Committeeman MILLVALE DIST 4,1,1.0
+2020,6,2,primary,County Committeeman MILLVALE DIST 5,1,1.0
+2020,6,2,primary,County Committeeman MONROEVILLE WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman MONROEVILLE WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman MONROEVILLE WARD 1 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman MONROEVILLE WARD 1 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman MONROEVILLE WARD 2 DIST 1,2,0.9662921348314607
+2020,6,2,primary,County Committeeman MONROEVILLE WARD 2 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman MONROEVILLE WARD 2 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman MONROEVILLE WARD 3 DIST 1,2,0.9858156028368794
+2020,6,2,primary,County Committeeman MONROEVILLE WARD 3 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman MONROEVILLE WARD 3 DIST 3,2,0.9821428571428571
+2020,6,2,primary,County Committeeman MONROEVILLE WARD 4 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman MONROEVILLE WARD 4 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman MONROEVILLE WARD 4 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman MONROEVILLE WARD 5 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman MONROEVILLE WARD 5 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman MONROEVILLE WARD 5 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman MONROEVILLE WARD 5 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman MONROEVILLE WARD 6 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman MONROEVILLE WARD 6 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman MONROEVILLE WARD 6 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman MONROEVILLE WARD 6 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman MONROEVILLE WARD 7 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman MONROEVILLE WARD 7 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman MONROEVILLE WARD 7 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman MOON DIST 1,1,1.0
+2020,6,2,primary,County Committeeman MOON DIST 2,2,0.9812734082397003
+2020,6,2,primary,County Committeeman MOON DIST 3,1,1.0
+2020,6,2,primary,County Committeeman MOON DIST 4,1,1.0
+2020,6,2,primary,County Committeeman MOON DIST 5,2,0.9933554817275747
+2020,6,2,primary,County Committeeman MOON DIST 6,2,0.9967105263157895
+2020,6,2,primary,County Committeeman MOON DIST 7,2,0.9850746268656716
+2020,6,2,primary,County Committeeman MOON DIST 8,1,1.0
+2020,6,2,primary,County Committeeman MOON DIST 9,2,0.9913793103448276
+2020,6,2,primary,County Committeeman MOON DIST 10,1,1.0
+2020,6,2,primary,County Committeeman MOON DIST 11,2,0.9893048128342246
+2020,6,2,primary,County Committeeman MOON DIST 12,1,1.0
+2020,6,2,primary,County Committeeman MOON DIST 13,1,1.0
+2020,6,2,primary,County Committeeman MT LEBANON WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman MT LEBANON WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman MT LEBANON WARD 1 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman MT LEBANON WARD 1 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman MT LEBANON WARD 1 DIST 5,1,1.0
+2020,6,2,primary,County Committeeman MT LEBANON WARD 1 DIST 6,1,1.0
+2020,6,2,primary,County Committeeman MT LEBANON WARD 1 DIST 7,1,1.0
+2020,6,2,primary,County Committeeman MT LEBANON WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman MT LEBANON WARD 2 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman MT LEBANON WARD 2 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman MT LEBANON WARD 2 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman MT LEBANON WARD 2 DIST 5,1,1.0
+2020,6,2,primary,County Committeeman MT LEBANON WARD 2 DIST 6,1,1.0
+2020,6,2,primary,County Committeeman MT LEBANON WARD 2 DIST 7,1,1.0
+2020,6,2,primary,County Committeeman MT LEBANON WARD 2 DIST 8,2,0.991869918699187
+2020,6,2,primary,County Committeeman MT LEBANON WARD 3 DIST 1,2,0.9836065573770492
+2020,6,2,primary,County Committeeman MT LEBANON WARD 3 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman MT LEBANON WARD 3 DIST 3,2,0.9722222222222222
+2020,6,2,primary,County Committeeman MT LEBANON WARD 3 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman MT LEBANON WARD 3 DIST 6,1,1.0
+2020,6,2,primary,County Committeeman MT LEBANON WARD 3 DIST 7,1,1.0
+2020,6,2,primary,County Committeeman MT LEBANON WARD 3 DIST 8,1,1.0
+2020,6,2,primary,County Committeeman MT LEBANON WARD 4 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman MT LEBANON WARD 4 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman MT LEBANON WARD 4 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman MT LEBANON WARD 4 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman MT LEBANON WARD 4 DIST 5,1,1.0
+2020,6,2,primary,County Committeeman MT LEBANON WARD 4 DIST 6,1,1.0
+2020,6,2,primary,County Committeeman MT LEBANON WARD 4 DIST 7,1,1.0
+2020,6,2,primary,County Committeeman MT LEBANON WARD 5 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman MT LEBANON WARD 5 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman MT LEBANON WARD 5 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman MT LEBANON WARD 5 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman MT LEBANON WARD 5 DIST 5,1,1.0
+2020,6,2,primary,County Committeeman MT LEBANON WARD 5 DIST 6,1,1.0
+2020,6,2,primary,County Committeeman MT LEBANON WARD 5 DIST 7,1,1.0
+2020,6,2,primary,County Committeeman MT LEBANON WARD 5 DIST 8,1,1.0
+2020,6,2,primary,County Committeeman MT OLIVER DIST 1,1,1.0
+2020,6,2,primary,County Committeeman MT OLIVER DIST 2,1,1.0
+2020,6,2,primary,County Committeeman MUNHALL DIST 1,1,1.0
+2020,6,2,primary,County Committeeman MUNHALL DIST 2,1,1.0
+2020,6,2,primary,County Committeeman MUNHALL DIST 3,1,1.0
+2020,6,2,primary,County Committeeman MUNHALL DIST 4,1,1.0
+2020,6,2,primary,County Committeeman MUNHALL DIST 5,1,1.0
+2020,6,2,primary,County Committeeman MUNHALL DIST 6,1,1.0
+2020,6,2,primary,County Committeeman MUNHALL DIST 7,1,1.0
+2020,6,2,primary,County Committeeman MUNHALL DIST 8,1,1.0
+2020,6,2,primary,County Committeeman MUNHALL DIST 9,1,1.0
+2020,6,2,primary,County Committeeman MUNHALL DIST 10,1,1.0
+2020,6,2,primary,County Committeeman MUNHALL DIST 11,1,1.0
+2020,6,2,primary,County Committeeman MUNHALL DIST 12,1,1.0
+2020,6,2,primary,County Committeeman NEVILLE WARD 1,1,1.0
+2020,6,2,primary,County Committeeman NEVILLE WARD 3,1,1.0
+2020,6,2,primary,County Committeeman N BRADDOCK WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman N BRADDOCK WARD 1 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman N BRADDOCK WARD 3 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman N FAYETTE DIST 1,2,0.9922178988326849
+2020,6,2,primary,County Committeeman N FAYETTE DIST 2,1,1.0
+2020,6,2,primary,County Committeeman N FAYETTE DIST 3,1,1.0
+2020,6,2,primary,County Committeeman N FAYETTE DIST 4,1,1.0
+2020,6,2,primary,County Committeeman N FAYETTE DIST 5,1,1.0
+2020,6,2,primary,County Committeeman N VERSAILLES WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman N VERSAILLES WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman N VERSAILLES WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman N VERSAILLES WARD 2 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman N VERSAILLES WARD 3 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman N VERSAILLES WARD 3 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman N VERSAILLES WARD 4 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman N VERSAILLES WARD 4 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman N VERSAILLES WARD 5 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman N VERSAILLES WARD 5 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman N VERSAILLES WARD 6 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman N VERSAILLES WARD 6 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman N VERSAILLES WARD 7,1,1.0
+2020,6,2,primary,County Committeeman OAKDALE DIST 1,2,0.9692307692307692
+2020,6,2,primary,County Committeeman OAKDALE DIST 2,1,1.0
+2020,6,2,primary,County Committeeman OAKMONT DIST 1,1,1.0
+2020,6,2,primary,County Committeeman OAKMONT DIST 2,1,1.0
+2020,6,2,primary,County Committeeman OAKMONT DIST 3,1,1.0
+2020,6,2,primary,County Committeeman OAKMONT DIST 4,1,1.0
+2020,6,2,primary,County Committeeman OAKMONT DIST 5,1,1.0
+2020,6,2,primary,County Committeeman OAKMONT DIST 6,1,1.0
+2020,6,2,primary,County Committeeman OHARA WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman OHARA WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman OHARA WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman OHARA WARD 2 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman OHARA WARD 3 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman OHARA WARD 3 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman OHARA WARD 4 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman OHARA WARD 4 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman OHARA WARD 5 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman OHARA WARD 5 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman OHIO DIST 1,1,1.0
+2020,6,2,primary,County Committeeman OHIO DIST 2,1,1.0
+2020,6,2,primary,County Committeeman OHIO DIST 3,1,1.0
+2020,6,2,primary,County Committeeman GLEN OSBORNE,1,1.0
+2020,6,2,primary,County Committeeman PENN HILLS WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman PENN HILLS WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman PENN HILLS WARD 1 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman PENN HILLS WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman PENN HILLS WARD 2 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman PENN HILLS WARD 2 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman PENN HILLS WARD 3 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman PENN HILLS WARD 3 DIST 2,2,0.9411764705882353
+2020,6,2,primary,County Committeeman PENN HILLS WARD 3 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman PENN HILLS WARD 3 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman PENN HILLS WARD 3 DIST 5,1,1.0
+2020,6,2,primary,County Committeeman PENN HILLS WARD 3 DIST 6,1,1.0
+2020,6,2,primary,County Committeeman PENN HILLS WARD 4 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman PENN HILLS WARD 4 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman PENN HILLS WARD 4 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman PENN HILLS WARD 4 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman PENN HILLS WARD 5 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman PENN HILLS WARD 5 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman PENN HILLS WARD 5 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman PENN HILLS WARD 5 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman PENN HILLS WARD 5 DIST 6,1,1.0
+2020,6,2,primary,County Committeeman PENN HILLS WARD 6 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman PENN HILLS WARD 6 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman PENN HILLS WARD 6 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman PENN HILLS WARD 6 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman PENN HILLS WARD 6 DIST 5,1,1.0
+2020,6,2,primary,County Committeeman PENN HILLS WARD 6 DIST 6,1,1.0
+2020,6,2,primary,County Committeeman PENN HILLS WARD 7 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman PENN HILLS WARD 7 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman PENN HILLS WARD 7 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman PENN HILLS WARD 7 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman PENN HILLS WARD 7 DIST 5,1,1.0
+2020,6,2,primary,County Committeeman PENN HILLS WARD 7 DIST 6,1,1.0
+2020,6,2,primary,County Committeeman PENN HILLS WARD 7 DIST 7,1,1.0
+2020,6,2,primary,County Committeeman PENN HILLS WARD 8 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman PENN HILLS WARD 8 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman PENN HILLS WARD 8 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman PENN HILLS WARD 8 DIST 5,1,1.0
+2020,6,2,primary,County Committeeman PENN HILLS WARD 8 DIST 6,1,1.0
+2020,6,2,primary,County Committeeman PENN HILLS WARD 9 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman PENN HILLS WARD 9 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman PENN HILLS WARD 9 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman PENN HILLS WARD 9 DIST 5,1,1.0
+2020,6,2,primary,County Committeeman PINE DIST 1,2,0.9836956521739131
+2020,6,2,primary,County Committeeman PINE DIST 2,1,1.0
+2020,6,2,primary,County Committeeman PINE DIST 3,1,1.0
+2020,6,2,primary,County Committeeman PINE DIST 4,1,1.0
+2020,6,2,primary,County Committeeman PINE DIST 5,1,1.0
+2020,6,2,primary,County Committeeman PINE DIST 6,1,1.0
+2020,6,2,primary,County Committeeman PINE DIST 7,1,1.0
+2020,6,2,primary,County Committeeman PINE DIST 8,2,0.9948186528497409
+2020,6,2,primary,County Committeeman PITCAIRN DIST 1,1,1.0
+2020,6,2,primary,County Committeeman PITCAIRN DIST 2,1,1.0
+2020,6,2,primary,County Committeeman PITCAIRN DIST 3,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 2 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 3 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 4 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 4 DIST 8,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 4 DIST 9,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 4 DIST 10,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 4 DIST 11,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 4 DIST 12,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 4 DIST 13,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 4 DIST 16,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 5 DIST 8,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 5 DIST 9,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 5 DIST 10,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 6 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 6 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 6 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 6 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 7 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 7 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 7 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 7 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 7 DIST 5,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 7 DIST 6,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 7 DIST 7,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 7 DIST 8,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 7 DIST 10,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 7 DIST 11,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 7 DIST 12,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 7 DIST 13,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 7 DIST 14,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 8 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 8 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 8 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 8 DIST 5,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 8 DIST 6,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 8 DIST 7,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 8 DIST 8,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 8 DIST 10,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 8 DIST 11,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 9 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 9 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 9 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 9 DIST 5,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 9 DIST 6,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 9 DIST 7,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 9 DIST 8,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 9 DIST 9,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 10 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 10 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 10 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 10 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 10 DIST 5,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 10 DIST 7,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 10 DIST 8,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 10 DIST 9,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 10 DIST 10,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 10 DIST 11,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 10 DIST 12,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 10 DIST 13,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 10 DIST 14,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 10 DIST 18,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 10 DIST 19,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 11 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 11 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 11 DIST 6,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 11 DIST 7,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 11 DIST 8,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 11 DIST 9,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 11 DIST 10,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 11 DIST 16,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 11 DIST 17,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 12 DIST 6,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 12 DIST 8,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 12 DIST 15,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 13 DIST 12,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 13 DIST 14,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 13 DIST 15,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 13 DIST 19,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 14 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 14 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 14 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 14 DIST 6,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 14 DIST 7,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 14 DIST 8,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 14 DIST 9,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 14 DIST 10,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 14 DIST 11,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 14 DIST 13,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 14 DIST 14,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 14 DIST 15,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 14 DIST 17,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 14 DIST 18,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 14 DIST 19,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 14 DIST 20,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 14 DIST 21,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 14 DIST 22,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 14 DIST 23,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 14 DIST 25,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 14 DIST 26,2,0.9545454545454546
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 14 DIST 27,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 14 DIST 31,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 14 DIST 32,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 14 DIST 33,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 14 DIST 34,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 14 DIST 35,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 14 DIST 36,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 14 DIST 37,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 14 DIST 38,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 14 DIST 39,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 14 DIST 40,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 14 DIST 41,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 15 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 15 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 15 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 15 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 15 DIST 5,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 15 DIST 6,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 15 DIST 7,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 15 DIST 8,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 15 DIST 10,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 15 DIST 11,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 15 DIST 12,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 15 DIST 13,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 15 DIST 15,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 15 DIST 18,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 16 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 16 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 16 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 16 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 16 DIST 5,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 16 DIST 6,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 16 DIST 7,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 17 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 17 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 17 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 17 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 17 DIST 6,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 17 DIST 8,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 18 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 18 DIST 5,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 18 DIST 7,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 18 DIST 8,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 18 DIST 9,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 18 DIST 10,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 18 DIST 11,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 19 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 19 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 19 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 19 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 19 DIST 5,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 19 DIST 6,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 19 DIST 8,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 19 DIST 9,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 19 DIST 10,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 19 DIST 11,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 19 DIST 12,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 19 DIST 13,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 19 DIST 14,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 19 DIST 15,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 19 DIST 16,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 19 DIST 17,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 19 DIST 19,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 19 DIST 20,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 19 DIST 21,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 19 DIST 22,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 19 DIST 23,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 19 DIST 24,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 19 DIST 26,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 19 DIST 27,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 19 DIST 28,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 19 DIST 29,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 19 DIST 30,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 19 DIST 31,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 19 DIST 33,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 19 DIST 34,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 19 DIST 35,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 19 DIST 36,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 19 DIST 37,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 19 DIST 38,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 20 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 20 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 20 DIST 5,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 20 DIST 6,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 20 DIST 7,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 20 DIST 8,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 20 DIST 10,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 20 DIST 11,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 20 DIST 12,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 20 DIST 14,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 20 DIST 15,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 20 DIST 16,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 20 DIST 17,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 20 DIST 18,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 21 DIST 1,2,0.5
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 21 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 21 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 22 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 23 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 23 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 23 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 24 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 24 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 24 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 24 DIST 5,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 24 DIST 6,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 25 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 25 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 25 DIST 5,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 25 DIST 7,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 26 DIST 5,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 26 DIST 7,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 26 DIST 8,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 26 DIST 10,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 26 DIST 11,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 26 DIST 12,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 26 DIST 13,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 26 DIST 14,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 26 DIST 15,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 26 DIST 16,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 27 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 27 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 27 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 27 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 27 DIST 5,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 27 DIST 6,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 27 DIST 7,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 27 DIST 8,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 27 DIST 9,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 27 DIST 10,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 27 DIST 12,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 27 DIST 13,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 28 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 28 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 28 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 28 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 28 DIST 5,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 28 DIST 6,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 28 DIST 7,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 28 DIST 8,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 28 DIST 9,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 28 DIST 10,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 29 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 29 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 29 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 29 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 29 DIST 5,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 29 DIST 6,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 29 DIST 7,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 29 DIST 8,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 29 DIST 9,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 29 DIST 10,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 29 DIST 11,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 29 DIST 12,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 30 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 30 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 30 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 30 DIST 5,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 31 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 31 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 31 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 31 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 31 DIST 5,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 31 DIST 6,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 31 DIST 7,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 32 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 32 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 32 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 32 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 32 DIST 5,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 32 DIST 6,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 32 DIST 7,1,1.0
+2020,6,2,primary,County Committeeman PITTSBURGH WARD 32 DIST 8,1,1.0
+2020,6,2,primary,County Committeeman PLEASANT HL DIST 1,1,1.0
+2020,6,2,primary,County Committeeman PLEASANT HL DIST 2,1,1.0
+2020,6,2,primary,County Committeeman PLEASANT HL DIST 3,1,1.0
+2020,6,2,primary,County Committeeman PLEASANT HL DIST 4,1,1.0
+2020,6,2,primary,County Committeeman PLEASANT HL DIST 5,1,1.0
+2020,6,2,primary,County Committeeman PLEASANT HL DIST 6,1,1.0
+2020,6,2,primary,County Committeeman PLEASANT HL DIST 7,1,1.0
+2020,6,2,primary,County Committeeman PLEASANT HL DIST 8,1,1.0
+2020,6,2,primary,County Committeeman PLEASANT HL DIST 9,1,1.0
+2020,6,2,primary,County Committeeman PLEASANT HL DIST 10,1,1.0
+2020,6,2,primary,County Committeeman PLUM DIST 1,2,0.9598214285714286
+2020,6,2,primary,County Committeeman PLUM DIST 2,1,1.0
+2020,6,2,primary,County Committeeman PLUM DIST 3,1,1.0
+2020,6,2,primary,County Committeeman PLUM DIST 4,2,0.7281553398058253
+2020,6,2,primary,County Committeeman PLUM DIST 5,1,1.0
+2020,6,2,primary,County Committeeman PLUM DIST 6,1,1.0
+2020,6,2,primary,County Committeeman PLUM DIST 7,3,0.5915492957746479
+2020,6,2,primary,County Committeeman PLUM DIST 8,2,0.958904109589041
+2020,6,2,primary,County Committeeman PLUM DIST 9,2,0.96
+2020,6,2,primary,County Committeeman PLUM DIST 10,2,0.9661016949152542
+2020,6,2,primary,County Committeeman PLUM DIST 11,2,0.9894736842105263
+2020,6,2,primary,County Committeeman PLUM DIST 12,2,0.8294573643410853
+2020,6,2,primary,County Committeeman PLUM DIST 13,2,0.6086956521739131
+2020,6,2,primary,County Committeeman PLUM DIST 14,2,0.9473684210526315
+2020,6,2,primary,County Committeeman PLUM DIST 15,1,1.0
+2020,6,2,primary,County Committeeman PLUM DIST 16,3,0.7755102040816326
+2020,6,2,primary,County Committeeman PLUM DIST 17,1,1.0
+2020,6,2,primary,County Committeeman PLUM DIST 18,2,0.9747899159663865
+2020,6,2,primary,County Committeeman PLUM DIST 19,3,0.5023474178403756
+2020,6,2,primary,County Committeeman PLUM DIST 20,2,0.9351851851851852
+2020,6,2,primary,County Committeeman PLUM DIST 21,2,0.9310344827586207
+2020,6,2,primary,County Committeeman PORT VUE DIST 1,1,1.0
+2020,6,2,primary,County Committeeman PORT VUE DIST 2,1,1.0
+2020,6,2,primary,County Committeeman PORT VUE DIST 3,1,1.0
+2020,6,2,primary,County Committeeman PORT VUE DIST 4,1,1.0
+2020,6,2,primary,County Committeeman RESERVE WARD 1,1,1.0
+2020,6,2,primary,County Committeeman RESERVE WARD 2,1,1.0
+2020,6,2,primary,County Committeeman RESERVE WARD 3,1,1.0
+2020,6,2,primary,County Committeeman RESERVE WARD 4,1,1.0
+2020,6,2,primary,County Committeeman RICHLAND DIST 1,2,0.9942196531791907
+2020,6,2,primary,County Committeeman RICHLAND DIST 2,1,1.0
+2020,6,2,primary,County Committeeman RICHLAND DIST 3,1,1.0
+2020,6,2,primary,County Committeeman RICHLAND DIST 4,1,1.0
+2020,6,2,primary,County Committeeman RICHLAND DIST 5,3,0.5220125786163522
+2020,6,2,primary,County Committeeman RICHLAND DIST 6,1,1.0
+2020,6,2,primary,County Committeeman RICHLAND DIST 7,2,0.9810126582278481
+2020,6,2,primary,County Committeeman RICHLAND DIST 8,1,1.0
+2020,6,2,primary,County Committeeman ROBINSON DIST 1,1,1.0
+2020,6,2,primary,County Committeeman ROBINSON DIST 2,1,1.0
+2020,6,2,primary,County Committeeman ROBINSON DIST 3,1,1.0
+2020,6,2,primary,County Committeeman ROBINSON DIST 4,1,1.0
+2020,6,2,primary,County Committeeman ROBINSON DIST 5,1,1.0
+2020,6,2,primary,County Committeeman ROBINSON DIST 6,2,0.9863013698630136
+2020,6,2,primary,County Committeeman ROBINSON DIST 7,1,1.0
+2020,6,2,primary,County Committeeman ROBINSON DIST 8,1,1.0
+2020,6,2,primary,County Committeeman ROBINSON DIST 9,1,1.0
+2020,6,2,primary,County Committeeman ROSS WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman ROSS WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman ROSS WARD 1 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman ROSS WARD 1 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman ROSS WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman ROSS WARD 2 DIST 2,2,0.9819819819819819
+2020,6,2,primary,County Committeeman ROSS WARD 2 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman ROSS WARD 3 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman ROSS WARD 3 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman ROSS WARD 3 DIST 3,2,0.9838709677419355
+2020,6,2,primary,County Committeeman ROSS WARD 3 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman ROSS WARD 4 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman ROSS WARD 4 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman ROSS WARD 4 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman ROSS WARD 4 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman ROSS WARD 5 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman ROSS WARD 5 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman ROSS WARD 5 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman ROSS WARD 6 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman ROSS WARD 6 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman ROSS WARD 6 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman ROSS WARD 6 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman ROSS WARD 7 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman ROSS WARD 7 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman ROSS WARD 7 DIST 3,2,0.9863013698630136
+2020,6,2,primary,County Committeeman ROSS WARD 7 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman ROSS WARD 8 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman ROSS WARD 8 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman ROSS WARD 8 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman ROSS WARD 9 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman ROSS WARD 9 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman ROSS WARD 9 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman ROSSLYN FARMS,1,1.0
+2020,6,2,primary,County Committeeman SCOTT WARD 1 DIST 1,2,0.9615384615384616
+2020,6,2,primary,County Committeeman SCOTT WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman SCOTT WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman SCOTT WARD 2 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman SCOTT WARD 3 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman SCOTT WARD 3 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman SCOTT WARD 4 DIST 1,2,0.9891304347826086
+2020,6,2,primary,County Committeeman SCOTT WARD 4 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman SCOTT WARD 5 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman SCOTT WARD 5 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman SCOTT WARD 6 DIST 1,2,0.9649122807017544
+2020,6,2,primary,County Committeeman SCOTT WARD 6 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman SCOTT WARD 7 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman SCOTT WARD 7 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman SCOTT WARD 8 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman SCOTT WARD 8 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman SCOTT WARD 9 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman SCOTT WARD 9 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman SEWICKLEY WARD 1,2,0.9833333333333333
+2020,6,2,primary,County Committeeman SEWICKLEY WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman SEWICKLEY WARD 2 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman SEWICKLEY WARD 3,1,1.0
+2020,6,2,primary,County Committeeman SEWICKLEY HTS,2,0.9924812030075187
+2020,6,2,primary,County Committeeman SEWICKLEY HILLS,1,1.0
+2020,6,2,primary,County Committeeman SHALER WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman SHALER WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman SHALER WARD 1 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman SHALER WARD 1 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman SHALER WARD 1 DIST 5,1,1.0
+2020,6,2,primary,County Committeeman SHALER WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman SHALER WARD 2 DIST 2,2,0.9913793103448276
+2020,6,2,primary,County Committeeman SHALER WARD 2 DIST 3,2,0.9183673469387755
+2020,6,2,primary,County Committeeman SHALER WARD 2 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman SHALER WARD 2 DIST 5,1,1.0
+2020,6,2,primary,County Committeeman SHALER WARD 3 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman SHALER WARD 3 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman SHALER WARD 3 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman SHALER WARD 3 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman SHALER WARD 3 DIST 5,1,1.0
+2020,6,2,primary,County Committeeman SHALER WARD 4 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman SHALER WARD 4 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman SHALER WARD 4 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman SHALER WARD 4 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman SHALER WARD 4 DIST 5,1,1.0
+2020,6,2,primary,County Committeeman SHALER WARD 5 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman SHALER WARD 5 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman SHALER WARD 5 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman SHALER WARD 5 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman SHALER WARD 5 DIST 5,1,1.0
+2020,6,2,primary,County Committeeman SHALER WARD 6 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman SHALER WARD 6 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman SHALER WARD 6 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman SHALER WARD 6 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman SHALER WARD 6 DIST 5,1,1.0
+2020,6,2,primary,County Committeeman SHALER WARD 7 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman SHALER WARD 7 DIST 2,2,0.9797979797979798
+2020,6,2,primary,County Committeeman SHALER WARD 7 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman SHALER WARD 7 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman SHARPSBURG DIST 1,1,1.0
+2020,6,2,primary,County Committeeman SHARPSBURG DIST 2,1,1.0
+2020,6,2,primary,County Committeeman SHARPSBURG DIST 3,1,1.0
+2020,6,2,primary,County Committeeman S FAYETTE DIST 1,1,1.0
+2020,6,2,primary,County Committeeman S FAYETTE DIST 2,1,1.0
+2020,6,2,primary,County Committeeman S FAYETTE DIST 3,1,1.0
+2020,6,2,primary,County Committeeman S FAYETTE DIST 5,1,1.0
+2020,6,2,primary,County Committeeman S FAYETTE DIST 6,1,1.0
+2020,6,2,primary,County Committeeman S FAYETTE DIST 7,2,0.9736842105263158
+2020,6,2,primary,County Committeeman S FAYETTE DIST 8,1,1.0
+2020,6,2,primary,County Committeeman S FAYETTE DIST 9,1,1.0
+2020,6,2,primary,County Committeeman S FAYETTE DIST 10,2,0.9883720930232558
+2020,6,2,primary,County Committeeman S FAYETTE DIST 11,1,1.0
+2020,6,2,primary,County Committeeman S FAYETTE DIST 12,1,1.0
+2020,6,2,primary,County Committeeman SOUTH PARK DIST 1,1,1.0
+2020,6,2,primary,County Committeeman SOUTH PARK DIST 2,1,1.0
+2020,6,2,primary,County Committeeman SOUTH PARK DIST 3,1,1.0
+2020,6,2,primary,County Committeeman SOUTH PARK DIST 4,1,1.0
+2020,6,2,primary,County Committeeman SOUTH PARK DIST 5,1,1.0
+2020,6,2,primary,County Committeeman SOUTH PARK DIST 6,1,1.0
+2020,6,2,primary,County Committeeman SOUTH PARK DIST 7,1,1.0
+2020,6,2,primary,County Committeeman SOUTH PARK DIST 8,1,1.0
+2020,6,2,primary,County Committeeman SOUTH PARK DIST 9,1,1.0
+2020,6,2,primary,County Committeeman SOUTH PARK DIST 10,1,1.0
+2020,6,2,primary,County Committeeman SOUTH PARK DIST 11,1,1.0
+2020,6,2,primary,County Committeeman SOUTH PARK DIST 12,1,1.0
+2020,6,2,primary,County Committeeman SOUTH PARK DIST 13,1,1.0
+2020,6,2,primary,County Committeeman S VERSAILLES,1,1.0
+2020,6,2,primary,County Committeeman SPRINGDAL BR DIST 1,1,1.0
+2020,6,2,primary,County Committeeman SPRINGDAL BR DIST 2,1,1.0
+2020,6,2,primary,County Committeeman SPRINGDAL BR DIST 3,1,1.0
+2020,6,2,primary,County Committeeman SPRINGDAL BR DIST 4,1,1.0
+2020,6,2,primary,County Committeeman SPRINGDALE TWP,1,1.0
+2020,6,2,primary,County Committeeman STOWE WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman STOWE WARD 2 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman STOWE WARD 3,1,1.0
+2020,6,2,primary,County Committeeman STOWE WARD 4 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman STOWE WARD 4 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman STOWE WARD 5,1,1.0
+2020,6,2,primary,County Committeeman STOWE WARD 7,1,1.0
+2020,6,2,primary,County Committeeman STOWE WARD 9,1,1.0
+2020,6,2,primary,County Committeeman SWISSVALE DIST 1,1,1.0
+2020,6,2,primary,County Committeeman SWISSVALE DIST 2,1,1.0
+2020,6,2,primary,County Committeeman SWISSVALE DIST 4,1,1.0
+2020,6,2,primary,County Committeeman SWISSVALE DIST 5,1,1.0
+2020,6,2,primary,County Committeeman SWISSVALE DIST 7,1,1.0
+2020,6,2,primary,County Committeeman SWISSVALE DIST 8,1,1.0
+2020,6,2,primary,County Committeeman SWISSVALE DIST 9,1,1.0
+2020,6,2,primary,County Committeeman SWISSVALE DIST 10,1,1.0
+2020,6,2,primary,County Committeeman SWISSVALE DIST 11,1,1.0
+2020,6,2,primary,County Committeeman TARENTUM WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman TARENTUM WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman TARENTUM WARD 2,1,1.0
+2020,6,2,primary,County Committeeman TARENTUM WARD 3 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman TARENTUM WARD 3 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman THORNBURG,1,1.0
+2020,6,2,primary,County Committeeman PENNSBURY VILL,1,1.0
+2020,6,2,primary,County Committeeman TRAFFORD,1,1.0
+2020,6,2,primary,County Committeeman TURTLE CREEK WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman TURTLE CREEK WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman TURTLE CREEK WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman TURTLE CREEK WARD 2 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman TURTLE CREEK WARD 3 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman TURTLE CREEK WARD 3 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman UP ST CLAIR WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman UP ST CLAIR WARD 1 DIST 2,2,0.992
+2020,6,2,primary,County Committeeman UP ST CLAIR WARD 1 DIST 3,2,0.9927536231884058
+2020,6,2,primary,County Committeeman UP ST CLAIR WARD 1 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman UP ST CLAIR WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman UP ST CLAIR WARD 2 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman UP ST CLAIR WARD 2 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman UP ST CLAIR WARD 2 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman UP ST CLAIR WARD 3 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman UP ST CLAIR WARD 3 DIST 2,2,0.689922480620155
+2020,6,2,primary,County Committeeman UP ST CLAIR WARD 3 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman UP ST CLAIR WARD 4 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman UP ST CLAIR WARD 4 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman UP ST CLAIR WARD 4 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman UP ST CLAIR WARD 4 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman UP ST CLAIR WARD 5 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman UP ST CLAIR WARD 5 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman UP ST CLAIR WARD 5 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman VERONA DIST 1,1,1.0
+2020,6,2,primary,County Committeeman VERONA DIST 2,1,1.0
+2020,6,2,primary,County Committeeman VERONA DIST 3,1,1.0
+2020,6,2,primary,County Committeeman VERSAILLES DIST 1,1,1.0
+2020,6,2,primary,County Committeeman VERSAILLES DIST 2,1,1.0
+2020,6,2,primary,County Committeeman WALL,1,1.0
+2020,6,2,primary,County Committeeman WEST DEER DIST 1,1,1.0
+2020,6,2,primary,County Committeeman WEST DEER DIST 2,1,1.0
+2020,6,2,primary,County Committeeman WEST DEER DIST 3,1,1.0
+2020,6,2,primary,County Committeeman WEST DEER DIST 4,1,1.0
+2020,6,2,primary,County Committeeman WEST DEER DIST 5,2,0.9908256880733946
+2020,6,2,primary,County Committeeman WEST DEER DIST 6,2,0.9795918367346939
+2020,6,2,primary,County Committeeman WEST DEER DIST 7,1,1.0
+2020,6,2,primary,County Committeeman WEST DEER DIST 8,1,1.0
+2020,6,2,primary,County Committeeman W ELIZABETH,1,1.0
+2020,6,2,primary,County Committeeman W HOMESTEAD DIST 2,1,1.0
+2020,6,2,primary,County Committeeman W HOMESTEAD DIST 3,1,1.0
+2020,6,2,primary,County Committeeman WEST MIFFLIN DIST 1,1,1.0
+2020,6,2,primary,County Committeeman WEST MIFFLIN DIST 2,1,1.0
+2020,6,2,primary,County Committeeman WEST MIFFLIN DIST 3,1,1.0
+2020,6,2,primary,County Committeeman WEST MIFFLIN DIST 5,1,1.0
+2020,6,2,primary,County Committeeman WEST MIFFLIN DIST 6,1,1.0
+2020,6,2,primary,County Committeeman WEST MIFFLIN DIST 7,1,1.0
+2020,6,2,primary,County Committeeman WEST MIFFLIN DIST 8,1,1.0
+2020,6,2,primary,County Committeeman WEST MIFFLIN DIST 9,1,1.0
+2020,6,2,primary,County Committeeman WEST MIFFLIN DIST 10,1,1.0
+2020,6,2,primary,County Committeeman WEST MIFFLIN DIST 11,1,1.0
+2020,6,2,primary,County Committeeman WEST MIFFLIN DIST 12,1,1.0
+2020,6,2,primary,County Committeeman WEST MIFFLIN DIST 13,1,1.0
+2020,6,2,primary,County Committeeman WEST MIFFLIN DIST 14,1,1.0
+2020,6,2,primary,County Committeeman WEST MIFFLIN DIST 15,1,1.0
+2020,6,2,primary,County Committeeman WEST MIFFLIN DIST 16,1,1.0
+2020,6,2,primary,County Committeeman WEST MIFFLIN DIST 17,1,1.0
+2020,6,2,primary,County Committeeman WEST MIFFLIN DIST 18,1,1.0
+2020,6,2,primary,County Committeeman WEST MIFFLIN DIST 19,1,1.0
+2020,6,2,primary,County Committeeman WEST MIFFLIN DIST 20,1,1.0
+2020,6,2,primary,County Committeeman WEST MIFFLIN DIST 21,1,1.0
+2020,6,2,primary,County Committeeman WEST VIEW DIST 1,1,1.0
+2020,6,2,primary,County Committeeman WEST VIEW DIST 2,1,1.0
+2020,6,2,primary,County Committeeman WEST VIEW DIST 3,1,1.0
+2020,6,2,primary,County Committeeman WEST VIEW DIST 4,1,1.0
+2020,6,2,primary,County Committeeman WEST VIEW DIST 5,1,1.0
+2020,6,2,primary,County Committeeman WEST VIEW DIST 6,1,1.0
+2020,6,2,primary,County Committeeman WEST VIEW DIST 7,1,1.0
+2020,6,2,primary,County Committeeman WHITAKER DIST 1,1,1.0
+2020,6,2,primary,County Committeeman WHITAKER DIST 2,1,1.0
+2020,6,2,primary,County Committeeman WHITEHALL DIST 1,1,1.0
+2020,6,2,primary,County Committeeman WHITEHALL DIST 2,1,1.0
+2020,6,2,primary,County Committeeman WHITEHALL DIST 3,1,1.0
+2020,6,2,primary,County Committeeman WHITEHALL DIST 4,1,1.0
+2020,6,2,primary,County Committeeman WHITEHALL DIST 5,1,1.0
+2020,6,2,primary,County Committeeman WHITEHALL DIST 6,1,1.0
+2020,6,2,primary,County Committeeman WHITEHALL DIST 7,1,1.0
+2020,6,2,primary,County Committeeman WHITEHALL DIST 8,1,1.0
+2020,6,2,primary,County Committeeman WHITEHALL DIST 9,1,1.0
+2020,6,2,primary,County Committeeman WHITEHALL DIST 10,1,1.0
+2020,6,2,primary,County Committeeman WHITEHALL DIST 11,1,1.0
+2020,6,2,primary,County Committeeman WHITEHALL DIST 12,2,0.9864864864864865
+2020,6,2,primary,County Committeeman WHITEHALL DIST 13,1,1.0
+2020,6,2,primary,County Committeeman WHITEHALL DIST 14,1,1.0
+2020,6,2,primary,County Committeeman WHITEHALL DIST 15,2,0.9923076923076923
+2020,6,2,primary,County Committeeman WHITEHALL DIST 16,1,1.0
+2020,6,2,primary,County Committeeman WHITE OAK DIST 1,2,0.9743589743589743
+2020,6,2,primary,County Committeeman WHITE OAK DIST 2,1,1.0
+2020,6,2,primary,County Committeeman WHITE OAK DIST 3,1,1.0
+2020,6,2,primary,County Committeeman WHITE OAK DIST 4,2,0.9777777777777777
+2020,6,2,primary,County Committeeman WHITE OAK DIST 5,2,0.9743589743589743
+2020,6,2,primary,County Committeeman WHITE OAK DIST 6,2,0.9873417721518988
+2020,6,2,primary,County Committeeman WHITE OAK DIST 7,2,0.9776536312849162
+2020,6,2,primary,County Committeeman WILKINS WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman WILKINS WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman WILKINS WARD 1 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman WILKINS WARD 1 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman WILKINS WARD 1 DIST 5,1,1.0
+2020,6,2,primary,County Committeeman WILKINS WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman WILKINS WARD 2 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman WILKINSBURG WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman WILKINSBURG WARD 1 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman WILKINSBURG WARD 1 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman WILKINSBURG WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeeman WILKINSBURG WARD 2 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman WILKINSBURG WARD 2 DIST 3,1,1.0
+2020,6,2,primary,County Committeeman WILKINSBURG WARD 2 DIST 5,1,1.0
+2020,6,2,primary,County Committeeman WILKINSBURG WARD 3 DIST 2,1,1.0
+2020,6,2,primary,County Committeeman WILKINSBURG WARD 3 DIST 4,1,1.0
+2020,6,2,primary,County Committeeman WILKINSBURG WARD 3 DIST 6,1,1.0
+2020,6,2,primary,County Committeeman WILMERDING DIST 1,1,1.0
+2020,6,2,primary,County Committeeman WILMERDING DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman ALEPPO,1,1.0
+2020,6,2,primary,County Committeewoman ASPINWALL DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman ASPINWALL DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman ASPINWALL DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman AVALON WARD 1,1,1.0
+2020,6,2,primary,County Committeewoman AVALON WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman AVALON WARD 2 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman AVALON WARD 3 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman AVALON WARD 3 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman AVALON WARD 3 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman BALDWIN BR DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman BALDWIN BR DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman BALDWIN BR DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman BALDWIN BR DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman BALDWIN BR DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman BALDWIN BR DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman BALDWIN BR DIST 7,1,1.0
+2020,6,2,primary,County Committeewoman BALDWIN BR DIST 8,1,1.0
+2020,6,2,primary,County Committeewoman BALDWIN BR DIST 9,1,1.0
+2020,6,2,primary,County Committeewoman BALDWIN BR DIST 10,1,1.0
+2020,6,2,primary,County Committeewoman BALDWIN BR DIST 11,1,1.0
+2020,6,2,primary,County Committeewoman BALDWIN BR DIST 12,1,1.0
+2020,6,2,primary,County Committeewoman BALDWIN BR DIST 13,1,1.0
+2020,6,2,primary,County Committeewoman BALDWIN BR DIST 14,1,1.0
+2020,6,2,primary,County Committeewoman BALDWIN BR DIST 15,1,1.0
+2020,6,2,primary,County Committeewoman BALDWIN BR DIST 16,1,1.0
+2020,6,2,primary,County Committeewoman BALDWIN BR DIST 17,1,1.0
+2020,6,2,primary,County Committeewoman BALDWIN BR DIST 18,1,1.0
+2020,6,2,primary,County Committeewoman BALDWIN TP DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman BALDWIN TP DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman BELL ACRES,2,0.9953271028037384
+2020,6,2,primary,County Committeewoman BELLEVUE WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman BELLEVUE WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman BELLEVUE WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman BELLEVUE WARD 2 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman BELLEVUE WARD 3 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman BELLEVUE WARD 3 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman BEN AVON DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman BEN AVON DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman BEN AVON HT,1,1.0
+2020,6,2,primary,County Committeewoman BETHEL PARK WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman BETHEL PARK WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman BETHEL PARK WARD 1 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman BETHEL PARK WARD 2 DIST 1,2,0.9932885906040269
+2020,6,2,primary,County Committeewoman BETHEL PARK WARD 2 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman BETHEL PARK WARD 2 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman BETHEL PARK WARD 3 DIST 1,2,0.9791666666666666
+2020,6,2,primary,County Committeewoman BETHEL PARK WARD 3 DIST 2,2,0.9933774834437086
+2020,6,2,primary,County Committeewoman BETHEL PARK WARD 3 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman BETHEL PARK WARD 4 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman BETHEL PARK WARD 4 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman BETHEL PARK WARD 4 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman BETHEL PARK WARD 5 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman BETHEL PARK WARD 5 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman BETHEL PARK WARD 5 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman BETHEL PARK WARD 6 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman BETHEL PARK WARD 6 DIST 2,2,0.9848484848484849
+2020,6,2,primary,County Committeewoman BETHEL PARK WARD 6 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman BETHEL PARK WARD 7 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman BETHEL PARK WARD 7 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman BETHEL PARK WARD 7 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman BETHEL PARK WARD 8 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman BETHEL PARK WARD 8 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman BETHEL PARK WARD 8 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman BETHEL PARK WARD 8 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman BETHEL PARK WARD 9 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman BETHEL PARK WARD 9 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman BETHEL PARK WARD 9 DIST 3,2,0.9856459330143541
+2020,6,2,primary,County Committeewoman BLAWNOX,1,1.0
+2020,6,2,primary,County Committeewoman BRACKENRIDGE WARD 1,1,1.0
+2020,6,2,primary,County Committeewoman BRACKENRIDGE WARD 2,1,1.0
+2020,6,2,primary,County Committeewoman BRACKENRIDGE WARD 3,1,1.0
+2020,6,2,primary,County Committeewoman BRADDOCK WARD 1,1,1.0
+2020,6,2,primary,County Committeewoman BRADDOCK HL DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman BRADDOCK HL DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman BRADFORD WOODS,2,0.9768518518518519
+2020,6,2,primary,County Committeewoman BRENTWOOD DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman BRENTWOOD DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman BRENTWOOD DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman BRENTWOOD DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman BRENTWOOD DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman BRENTWOOD DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman BRENTWOOD DIST 7,1,1.0
+2020,6,2,primary,County Committeewoman BRENTWOOD DIST 8,1,1.0
+2020,6,2,primary,County Committeewoman BRENTWOOD DIST 9,1,1.0
+2020,6,2,primary,County Committeewoman BRENTWOOD DIST 10,1,1.0
+2020,6,2,primary,County Committeewoman BRIDGEVILLE DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman BRIDGEVILLE DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman BRIDGEVILLE DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman BRIDGEVILLE DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman CARNEGIE WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman CARNEGIE WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman CARNEGIE WARD 1 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman CARNEGIE WARD 1 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman CARNEGIE WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman CARNEGIE WARD 2 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman CARNEGIE WARD 2 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman CARNEGIE WARD 2 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman CASL SHANNON DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman CASL SHANNON DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman CASL SHANNON DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman CASL SHANNON DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman CASL SHANNON DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman CASL SHANNON DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman CASL SHANNON DIST 7,1,1.0
+2020,6,2,primary,County Committeewoman CASL SHANNON DIST 8,1,1.0
+2020,6,2,primary,County Committeewoman CHALFANT DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman CHESWICK DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman CHESWICK DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman CHURCHILL DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman CHURCHILL DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman CHURCHILL DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman CHURCHILL DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman CLAIRTON WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman CLAIRTON WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman CLAIRTON WARD 1 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman CLAIRTON WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman CLAIRTON WARD 3 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman CLAIRTON WARD 3 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman CLAIRTON WARD 3 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman CLAIRTON WARD 4 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman CLAIRTON WARD 4 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman CLAIRTON WARD 4 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman COLLIER DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman COLLIER DIST 2,2,0.9869281045751634
+2020,6,2,primary,County Committeewoman COLLIER DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman COLLIER DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman COLLIER DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman COLLIER DIST 6,2,0.99
+2020,6,2,primary,County Committeewoman CORAOPOLIS WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman CORAOPOLIS WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman CORAOPOLIS WARD 2,1,1.0
+2020,6,2,primary,County Committeewoman CORAOPOLIS WARD 3 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman CORAOPOLIS WARD 3 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman CORAOPOLIS WARD 4 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman CRAFTON WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman CRAFTON WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman CRAFTON WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman CRAFTON WARD 2 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman CRAFTON WARD 3 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman CRAFTON WARD 3 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman CRESCENT WARD 1,1,1.0
+2020,6,2,primary,County Committeewoman CRESCENT WARD 2,1,1.0
+2020,6,2,primary,County Committeewoman DORMONT DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman DORMONT DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman DORMONT DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman DORMONT DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman DORMONT DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman DORMONT DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman DORMONT DIST 7,1,1.0
+2020,6,2,primary,County Committeewoman DORMONT DIST 8,1,1.0
+2020,6,2,primary,County Committeewoman DORMONT DIST 9,1,1.0
+2020,6,2,primary,County Committeewoman DORMONT DIST 10,1,1.0
+2020,6,2,primary,County Committeewoman DRAVOSBURG DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman DRAVOSBURG DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman DUQUESNE WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman DUQUESNE WARD 1 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman DUQUESNE WARD 1 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman DUQUESNE WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman DUQUESNE WARD 2 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman DUQUESNE WARD 3 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman EAST DEER WARD 1,1,1.0
+2020,6,2,primary,County Committeewoman EAST DEER WARD 2,1,1.0
+2020,6,2,primary,County Committeewoman E MCKEESPORT DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman E MCKEESPORT DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman E MCKEESPORT DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman E PITTSBURGH WARD 2,1,1.0
+2020,6,2,primary,County Committeewoman E PITTSBURGH WARD 3,1,1.0
+2020,6,2,primary,County Committeewoman EDGEWOOD DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman EDGEWOOD DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman EDGEWOOD DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman EDGEWORTH DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman EDGEWORTH DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman ELIZABETH BR,1,1.0
+2020,6,2,primary,County Committeewoman ELIZABETH TP WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman ELIZABETH TP WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman ELIZABETH TP WARD 2,1,1.0
+2020,6,2,primary,County Committeewoman ELIZABETH TP WARD 3,2,0.9939759036144579
+2020,6,2,primary,County Committeewoman ELIZABETH TP WARD 4 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman ELIZABETH TP WARD 4 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman ELIZABETH TP WARD 5 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman ELIZABETH TP WARD 5 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman ELIZABETH TP WARD 6 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman ELIZABETH TP WARD 6 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman ELIZABETH TP WARD 7,2,0.9722222222222222
+2020,6,2,primary,County Committeewoman EMSWORTH DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman EMSWORTH DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman ETNA WARD 1,1,1.0
+2020,6,2,primary,County Committeewoman ETNA WARD 2,1,1.0
+2020,6,2,primary,County Committeewoman ETNA WARD 3,1,1.0
+2020,6,2,primary,County Committeewoman FAWN DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman FAWN DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman FINDLAY DIST 1,2,0.9906976744186047
+2020,6,2,primary,County Committeewoman FINDLAY DIST 2,2,0.9728506787330317
+2020,6,2,primary,County Committeewoman FINDLAY DIST 3,2,0.9893617021276596
+2020,6,2,primary,County Committeewoman FOREST HILLS DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman FOREST HILLS DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman FOREST HILLS DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman FOREST HILLS DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman FOREST HILLS DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman FOREST HILLS DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman FOREST HILLS DIST 7,1,1.0
+2020,6,2,primary,County Committeewoman FOREST HILLS DIST 8,1,1.0
+2020,6,2,primary,County Committeewoman FORWARD DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman FORWARD DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman FORWARD DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman FORWARD DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman FOX CHAPEL DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman FOX CHAPEL DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman FOX CHAPEL DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman FOX CHAPEL DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman FOX CHAPEL DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman FRANKLIN PK WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman FRANKLIN PK WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman FRANKLIN PK WARD 1 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman FRANKLIN PK WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman FRANKLIN PK WARD 2 DIST 2,2,0.9849246231155779
+2020,6,2,primary,County Committeewoman FRANKLIN PK WARD 2 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman FRANKLIN PK WARD 3 DIST 1,2,0.9871794871794872
+2020,6,2,primary,County Committeewoman FRANKLIN PK WARD 3 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman FRANKLIN PK WARD 3 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman FRAZER,1,1.0
+2020,6,2,primary,County Committeewoman GLASSPORT DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman GLASSPORT DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman GLASSPORT DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman GLASSPORT DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman GLASSPORT DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman GLASSPORT DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman GLENFIELD,1,1.0
+2020,6,2,primary,County Committeewoman GREEN TREE DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman GREEN TREE DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman GREEN TREE DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman GREEN TREE DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman HAMPTON DIST 1,2,0.9940828402366864
+2020,6,2,primary,County Committeewoman HAMPTON DIST 2,2,0.9824561403508771
+2020,6,2,primary,County Committeewoman HAMPTON DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman HAMPTON DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman HAMPTON DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman HAMPTON DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman HAMPTON DIST 7,1,1.0
+2020,6,2,primary,County Committeewoman HAMPTON DIST 8,1,1.0
+2020,6,2,primary,County Committeewoman HAMPTON DIST 9,2,0.9945652173913043
+2020,6,2,primary,County Committeewoman HAMPTON DIST 10,1,1.0
+2020,6,2,primary,County Committeewoman HAMPTON DIST 11,2,0.9957446808510638
+2020,6,2,primary,County Committeewoman HAMPTON DIST 12,1,1.0
+2020,6,2,primary,County Committeewoman HAMPTON DIST 13,1,1.0
+2020,6,2,primary,County Committeewoman HARMAR DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman HARMAR DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman HARMAR DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman HARRISON WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman HARRISON WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman HARRISON WARD 1 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman HARRISON WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman HARRISON WARD 2 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman HARRISON WARD 3 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman HARRISON WARD 3 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman HARRISON WARD 4 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman HARRISON WARD 4 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman HARRISON WARD 5 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman HARRISON WARD 5 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman HAYSVILLE,1,1.0
+2020,6,2,primary,County Committeewoman HEIDELBERG,1,1.0
+2020,6,2,primary,County Committeewoman HOMESTEAD WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman HOMESTEAD WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman HOMESTEAD WARD 3 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman INDIANA DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman INDIANA DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman INDIANA DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman INDIANA DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman INDIANA DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman INGRAM DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman INGRAM DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman INGRAM DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman JEFFERSON HL DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman JEFFERSON HL DIST 2,2,0.9759036144578314
+2020,6,2,primary,County Committeewoman JEFFERSON HL DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman JEFFERSON HL DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman JEFFERSON HL DIST 5,2,0.9787985865724381
+2020,6,2,primary,County Committeewoman JEFFERSON HL DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman JEFFERSON HL DIST 7,1,1.0
+2020,6,2,primary,County Committeewoman JEFFERSON HL DIST 8,1,1.0
+2020,6,2,primary,County Committeewoman KENNEDY DIST 1,2,0.9915254237288136
+2020,6,2,primary,County Committeewoman KENNEDY DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman KENNEDY DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman KENNEDY DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman KENNEDY DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman KENNEDY DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman KENNEDY DIST 7,1,1.0
+2020,6,2,primary,County Committeewoman KILBUCK,1,1.0
+2020,6,2,primary,County Committeewoman LEET DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman LEET DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman LEETSDALE,2,0.98
+2020,6,2,primary,County Committeewoman LIBERTY DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman LIBERTY DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman LINCOLN,1,1.0
+2020,6,2,primary,County Committeewoman MARSHALL DIST 1,2,0.9817073170731707
+2020,6,2,primary,County Committeewoman MARSHALL DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman MARSHALL DIST 3,2,0.9935483870967742
+2020,6,2,primary,County Committeewoman MARSHALL DIST 4,2,0.9870967741935484
+2020,6,2,primary,County Committeewoman MARSHALL DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman MARSHALL DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman MARSHALL DIST 7,2,0.9942857142857143
+2020,6,2,primary,County Committeewoman MCCANDLESS WARD 1 DIST 1,2,0.9629629629629629
+2020,6,2,primary,County Committeewoman MCCANDLESS WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman MCCANDLESS WARD 1 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman MCCANDLESS WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman MCCANDLESS WARD 2 DIST 2,2,0.9880239520958084
+2020,6,2,primary,County Committeewoman MCCANDLESS WARD 2 DIST 3,2,0.9776119402985075
+2020,6,2,primary,County Committeewoman MCCANDLESS WARD 3 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman MCCANDLESS WARD 3 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman MCCANDLESS WARD 3 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman MCCANDLESS WARD 4 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman MCCANDLESS WARD 4 DIST 2,2,0.968503937007874
+2020,6,2,primary,County Committeewoman MCCANDLESS WARD 4 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman MCCANDLESS WARD 5 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman MCCANDLESS WARD 5 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman MCCANDLESS WARD 5 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman MCCANDLESS WARD 6 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman MCCANDLESS WARD 6 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman MCCANDLESS WARD 6 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman MCCANDLESS WARD 7 DIST 1,2,0.9789473684210527
+2020,6,2,primary,County Committeewoman MCCANDLESS WARD 7 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman MCCANDLESS WARD 7 DIST 3,2,0.9879518072289156
+2020,6,2,primary,County Committeewoman MCDONALD,1,1.0
+2020,6,2,primary,County Committeewoman MCKEESPORT WARD 3 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman MCKEESPORT WARD 5,1,1.0
+2020,6,2,primary,County Committeewoman MCKEESPORT WARD 7 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman MCKEESPORT WARD 7 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman MCKEESPORT WARD 7 DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman MCKEESPORT WARD 7 DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman MCKEESPORT WARD 8 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman MCKEESPORT WARD 8 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman MCKEESPORT WARD 8 DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman MCKEESPORT WARD 9 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman MCKEESPORT WARD 9 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman MCKEESPORT WARD 10 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman MCKEESPORT WARD 10 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman MCKEESPORT WARD 11 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman MCKEESPORT WARD 11 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman MCKEESPORT WARD 11 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman MCKEESPORT WARD 12 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman MCKEES ROCKS WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman MCKEES ROCKS WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman MCKEES ROCKS WARD 2 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman MCKEES ROCKS WARD 3 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman MCKEES ROCKS WARD 3 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman MILLVALE DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman MILLVALE DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman MILLVALE DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman MILLVALE DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman MONROEVILLE WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman MONROEVILLE WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman MONROEVILLE WARD 1 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman MONROEVILLE WARD 1 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman MONROEVILLE WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman MONROEVILLE WARD 2 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman MONROEVILLE WARD 2 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman MONROEVILLE WARD 3 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman MONROEVILLE WARD 3 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman MONROEVILLE WARD 3 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman MONROEVILLE WARD 3 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman MONROEVILLE WARD 4 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman MONROEVILLE WARD 4 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman MONROEVILLE WARD 4 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman MONROEVILLE WARD 5 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman MONROEVILLE WARD 5 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman MONROEVILLE WARD 5 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman MONROEVILLE WARD 5 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman MONROEVILLE WARD 6 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman MONROEVILLE WARD 6 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman MONROEVILLE WARD 6 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman MONROEVILLE WARD 6 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman MONROEVILLE WARD 7 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman MONROEVILLE WARD 7 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman MONROEVILLE WARD 7 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman MOON DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman MOON DIST 2,2,0.9887218045112782
+2020,6,2,primary,County Committeewoman MOON DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman MOON DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman MOON DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman MOON DIST 6,2,0.9966996699669967
+2020,6,2,primary,County Committeewoman MOON DIST 7,1,1.0
+2020,6,2,primary,County Committeewoman MOON DIST 8,1,1.0
+2020,6,2,primary,County Committeewoman MOON DIST 9,2,0.9876543209876543
+2020,6,2,primary,County Committeewoman MOON DIST 10,1,1.0
+2020,6,2,primary,County Committeewoman MOON DIST 11,2,0.9945945945945946
+2020,6,2,primary,County Committeewoman MOON DIST 12,1,1.0
+2020,6,2,primary,County Committeewoman MOON DIST 13,1,1.0
+2020,6,2,primary,County Committeewoman MT LEBANON WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman MT LEBANON WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman MT LEBANON WARD 1 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman MT LEBANON WARD 1 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman MT LEBANON WARD 1 DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman MT LEBANON WARD 1 DIST 6,2,0.9805825242718447
+2020,6,2,primary,County Committeewoman MT LEBANON WARD 1 DIST 7,1,1.0
+2020,6,2,primary,County Committeewoman MT LEBANON WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman MT LEBANON WARD 2 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman MT LEBANON WARD 2 DIST 3,2,0.9782608695652174
+2020,6,2,primary,County Committeewoman MT LEBANON WARD 2 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman MT LEBANON WARD 2 DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman MT LEBANON WARD 2 DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman MT LEBANON WARD 2 DIST 7,1,1.0
+2020,6,2,primary,County Committeewoman MT LEBANON WARD 2 DIST 8,2,0.9921259842519685
+2020,6,2,primary,County Committeewoman MT LEBANON WARD 3 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman MT LEBANON WARD 3 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman MT LEBANON WARD 3 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman MT LEBANON WARD 3 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman MT LEBANON WARD 3 DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman MT LEBANON WARD 3 DIST 7,2,0.9906542056074766
+2020,6,2,primary,County Committeewoman MT LEBANON WARD 3 DIST 8,1,1.0
+2020,6,2,primary,County Committeewoman MT LEBANON WARD 4 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman MT LEBANON WARD 4 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman MT LEBANON WARD 4 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman MT LEBANON WARD 4 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman MT LEBANON WARD 4 DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman MT LEBANON WARD 4 DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman MT LEBANON WARD 4 DIST 7,1,1.0
+2020,6,2,primary,County Committeewoman MT LEBANON WARD 5 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman MT LEBANON WARD 5 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman MT LEBANON WARD 5 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman MT LEBANON WARD 5 DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman MT LEBANON WARD 5 DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman MT LEBANON WARD 5 DIST 7,1,1.0
+2020,6,2,primary,County Committeewoman MT LEBANON WARD 5 DIST 8,1,1.0
+2020,6,2,primary,County Committeewoman MT OLIVER DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman MT OLIVER DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman MUNHALL DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman MUNHALL DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman MUNHALL DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman MUNHALL DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman MUNHALL DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman MUNHALL DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman MUNHALL DIST 7,1,1.0
+2020,6,2,primary,County Committeewoman MUNHALL DIST 8,1,1.0
+2020,6,2,primary,County Committeewoman MUNHALL DIST 9,1,1.0
+2020,6,2,primary,County Committeewoman MUNHALL DIST 10,1,1.0
+2020,6,2,primary,County Committeewoman MUNHALL DIST 11,1,1.0
+2020,6,2,primary,County Committeewoman MUNHALL DIST 12,1,1.0
+2020,6,2,primary,County Committeewoman NEVILLE WARD 1,1,1.0
+2020,6,2,primary,County Committeewoman NEVILLE WARD 2,1,1.0
+2020,6,2,primary,County Committeewoman NEVILLE WARD 3,1,1.0
+2020,6,2,primary,County Committeewoman N BRADDOCK WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman N BRADDOCK WARD 1 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman N BRADDOCK WARD 2 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman N BRADDOCK WARD 3 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman N FAYETTE DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman N FAYETTE DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman N FAYETTE DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman N FAYETTE DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman N FAYETTE DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman N VERSAILLES WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman N VERSAILLES WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman N VERSAILLES WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman N VERSAILLES WARD 3 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman N VERSAILLES WARD 4 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman N VERSAILLES WARD 4 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman N VERSAILLES WARD 5 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman N VERSAILLES WARD 5 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman N VERSAILLES WARD 6 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman N VERSAILLES WARD 6 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman N VERSAILLES WARD 7,1,1.0
+2020,6,2,primary,County Committeewoman OAKDALE DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman OAKDALE DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman OAKMONT DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman OAKMONT DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman OAKMONT DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman OAKMONT DIST 4,2,0.9789473684210527
+2020,6,2,primary,County Committeewoman OAKMONT DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman OAKMONT DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman OHARA WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman OHARA WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman OHARA WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman OHARA WARD 2 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman OHARA WARD 3 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman OHARA WARD 3 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman OHARA WARD 4 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman OHARA WARD 4 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman OHARA WARD 5 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman OHARA WARD 5 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman OHIO DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman OHIO DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman OHIO DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman GLEN OSBORNE,2,0.9833333333333333
+2020,6,2,primary,County Committeewoman PENN HILLS WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman PENN HILLS WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman PENN HILLS WARD 1 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman PENN HILLS WARD 1 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman PENN HILLS WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman PENN HILLS WARD 2 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman PENN HILLS WARD 2 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman PENN HILLS WARD 3 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman PENN HILLS WARD 3 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman PENN HILLS WARD 3 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman PENN HILLS WARD 3 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman PENN HILLS WARD 3 DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman PENN HILLS WARD 3 DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman PENN HILLS WARD 4 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman PENN HILLS WARD 4 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman PENN HILLS WARD 4 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman PENN HILLS WARD 4 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman PENN HILLS WARD 5 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman PENN HILLS WARD 5 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman PENN HILLS WARD 5 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman PENN HILLS WARD 5 DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman PENN HILLS WARD 5 DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman PENN HILLS WARD 6 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman PENN HILLS WARD 6 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman PENN HILLS WARD 6 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman PENN HILLS WARD 6 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman PENN HILLS WARD 6 DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman PENN HILLS WARD 6 DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman PENN HILLS WARD 7 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman PENN HILLS WARD 7 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman PENN HILLS WARD 7 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman PENN HILLS WARD 7 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman PENN HILLS WARD 7 DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman PENN HILLS WARD 7 DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman PENN HILLS WARD 7 DIST 7,1,1.0
+2020,6,2,primary,County Committeewoman PENN HILLS WARD 8 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman PENN HILLS WARD 8 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman PENN HILLS WARD 8 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman PENN HILLS WARD 8 DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman PENN HILLS WARD 8 DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman PENN HILLS WARD 9 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman PENN HILLS WARD 9 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman PENN HILLS WARD 9 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman PENN HILLS WARD 9 DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman PINE DIST 1,2,0.9893048128342246
+2020,6,2,primary,County Committeewoman PINE DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman PINE DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman PINE DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman PINE DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman PINE DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman PINE DIST 7,1,1.0
+2020,6,2,primary,County Committeewoman PINE DIST 8,2,0.9947643979057592
+2020,6,2,primary,County Committeewoman PITCAIRN DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman PITCAIRN DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman PITCAIRN DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 2 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 3 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 4 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 4 DIST 8,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 4 DIST 9,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 4 DIST 10,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 4 DIST 11,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 4 DIST 12,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 4 DIST 13,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 4 DIST 16,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 5 DIST 8,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 5 DIST 9,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 5 DIST 10,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 6 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 6 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 6 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 7 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 7 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 7 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 7 DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 7 DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 7 DIST 7,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 7 DIST 10,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 7 DIST 11,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 7 DIST 12,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 7 DIST 13,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 7 DIST 14,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 8 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 8 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 8 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 8 DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 8 DIST 7,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 8 DIST 8,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 8 DIST 10,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 8 DIST 11,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 9 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 9 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 9 DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 9 DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 9 DIST 7,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 9 DIST 8,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 10 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 10 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 10 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 10 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 10 DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 10 DIST 7,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 10 DIST 8,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 10 DIST 9,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 10 DIST 10,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 10 DIST 11,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 10 DIST 12,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 10 DIST 18,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 10 DIST 19,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 11 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 11 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 11 DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 11 DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 11 DIST 7,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 11 DIST 8,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 11 DIST 9,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 11 DIST 10,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 11 DIST 12,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 11 DIST 13,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 11 DIST 16,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 12 DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 12 DIST 8,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 12 DIST 13,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 12 DIST 15,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 13 DIST 12,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 13 DIST 15,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 13 DIST 19,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 14 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 14 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 14 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 14 DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 14 DIST 7,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 14 DIST 8,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 14 DIST 9,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 14 DIST 10,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 14 DIST 13,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 14 DIST 14,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 14 DIST 15,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 14 DIST 17,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 14 DIST 18,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 14 DIST 19,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 14 DIST 20,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 14 DIST 21,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 14 DIST 22,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 14 DIST 23,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 14 DIST 25,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 14 DIST 26,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 14 DIST 27,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 14 DIST 28,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 14 DIST 29,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 14 DIST 30,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 14 DIST 31,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 14 DIST 32,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 14 DIST 33,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 14 DIST 34,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 14 DIST 35,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 14 DIST 36,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 14 DIST 37,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 14 DIST 38,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 14 DIST 39,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 14 DIST 40,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 15 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 15 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 15 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 15 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 15 DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 15 DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 15 DIST 7,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 15 DIST 8,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 15 DIST 10,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 15 DIST 11,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 15 DIST 12,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 15 DIST 13,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 15 DIST 16,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 15 DIST 18,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 16 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 16 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 16 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 16 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 16 DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 16 DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 16 DIST 10,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 17 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 17 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 17 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 17 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 17 DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 17 DIST 7,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 17 DIST 8,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 18 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 18 DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 18 DIST 7,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 18 DIST 8,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 18 DIST 9,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 18 DIST 10,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 18 DIST 11,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 19 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 19 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 19 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 19 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 19 DIST 5,2,0.9333333333333333
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 19 DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 19 DIST 8,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 19 DIST 9,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 19 DIST 10,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 19 DIST 11,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 19 DIST 12,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 19 DIST 13,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 19 DIST 14,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 19 DIST 15,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 19 DIST 16,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 19 DIST 17,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 19 DIST 19,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 19 DIST 20,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 19 DIST 21,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 19 DIST 22,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 19 DIST 23,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 19 DIST 24,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 19 DIST 25,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 19 DIST 28,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 19 DIST 29,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 19 DIST 30,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 19 DIST 31,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 19 DIST 33,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 19 DIST 34,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 19 DIST 35,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 19 DIST 36,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 19 DIST 37,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 19 DIST 38,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 20 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 20 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 20 DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 20 DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 20 DIST 7,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 20 DIST 8,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 20 DIST 10,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 20 DIST 11,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 20 DIST 12,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 20 DIST 14,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 20 DIST 16,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 20 DIST 17,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 20 DIST 18,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 21 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 21 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 22 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 22 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 22 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 23 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 23 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 23 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 24 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 24 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 24 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 24 DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 24 DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 25 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 25 DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 25 DIST 7,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 26 DIST 7,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 26 DIST 8,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 26 DIST 9,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 26 DIST 10,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 26 DIST 11,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 26 DIST 13,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 26 DIST 14,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 26 DIST 15,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 26 DIST 16,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 27 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 27 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 27 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 27 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 27 DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 27 DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 27 DIST 7,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 27 DIST 8,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 27 DIST 9,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 27 DIST 10,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 27 DIST 12,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 28 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 28 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 28 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 28 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 28 DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 28 DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 28 DIST 7,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 28 DIST 8,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 28 DIST 10,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 29 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 29 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 29 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 29 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 29 DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 29 DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 29 DIST 7,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 29 DIST 8,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 29 DIST 9,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 29 DIST 10,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 29 DIST 11,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 29 DIST 12,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 30 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 30 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 31 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 31 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 31 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 31 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 31 DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 31 DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 31 DIST 7,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 32 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 32 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 32 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 32 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 32 DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 32 DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 32 DIST 7,1,1.0
+2020,6,2,primary,County Committeewoman PITTSBURGH WARD 32 DIST 8,1,1.0
+2020,6,2,primary,County Committeewoman PLEASANT HL DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman PLEASANT HL DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman PLEASANT HL DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman PLEASANT HL DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman PLEASANT HL DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman PLEASANT HL DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman PLEASANT HL DIST 7,1,1.0
+2020,6,2,primary,County Committeewoman PLEASANT HL DIST 8,1,1.0
+2020,6,2,primary,County Committeewoman PLEASANT HL DIST 9,1,1.0
+2020,6,2,primary,County Committeewoman PLEASANT HL DIST 10,1,1.0
+2020,6,2,primary,County Committeewoman PLUM DIST 1,2,0.6826086956521739
+2020,6,2,primary,County Committeewoman PLUM DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman PLUM DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman PLUM DIST 4,3,0.5754716981132075
+2020,6,2,primary,County Committeewoman PLUM DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman PLUM DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman PLUM DIST 7,2,0.9761904761904762
+2020,6,2,primary,County Committeewoman PLUM DIST 8,1,1.0
+2020,6,2,primary,County Committeewoman PLUM DIST 9,2,0.9594594594594594
+2020,6,2,primary,County Committeewoman PLUM DIST 10,1,1.0
+2020,6,2,primary,County Committeewoman PLUM DIST 11,1,1.0
+2020,6,2,primary,County Committeewoman PLUM DIST 12,2,0.9473684210526315
+2020,6,2,primary,County Committeewoman PLUM DIST 13,1,1.0
+2020,6,2,primary,County Committeewoman PLUM DIST 14,2,0.7391304347826086
+2020,6,2,primary,County Committeewoman PLUM DIST 15,1,1.0
+2020,6,2,primary,County Committeewoman PLUM DIST 16,2,0.978494623655914
+2020,6,2,primary,County Committeewoman PLUM DIST 17,1,1.0
+2020,6,2,primary,County Committeewoman PLUM DIST 18,2,0.9818181818181818
+2020,6,2,primary,County Committeewoman PLUM DIST 19,2,0.9906976744186047
+2020,6,2,primary,County Committeewoman PLUM DIST 20,2,0.9834710743801653
+2020,6,2,primary,County Committeewoman PLUM DIST 21,1,1.0
+2020,6,2,primary,County Committeewoman PORT VUE DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman PORT VUE DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman PORT VUE DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman PORT VUE DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman RANKIN WARD 1,1,1.0
+2020,6,2,primary,County Committeewoman RESERVE WARD 1,1,1.0
+2020,6,2,primary,County Committeewoman RESERVE WARD 2,1,1.0
+2020,6,2,primary,County Committeewoman RESERVE WARD 3,1,1.0
+2020,6,2,primary,County Committeewoman RESERVE WARD 4,1,1.0
+2020,6,2,primary,County Committeewoman RICHLAND DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman RICHLAND DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman RICHLAND DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman RICHLAND DIST 4,2,0.9883040935672515
+2020,6,2,primary,County Committeewoman RICHLAND DIST 5,2,0.98
+2020,6,2,primary,County Committeewoman RICHLAND DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman RICHLAND DIST 7,2,0.987012987012987
+2020,6,2,primary,County Committeewoman RICHLAND DIST 8,1,1.0
+2020,6,2,primary,County Committeewoman ROBINSON DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman ROBINSON DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman ROBINSON DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman ROBINSON DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman ROBINSON DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman ROBINSON DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman ROBINSON DIST 7,1,1.0
+2020,6,2,primary,County Committeewoman ROBINSON DIST 8,1,1.0
+2020,6,2,primary,County Committeewoman ROBINSON DIST 9,1,1.0
+2020,6,2,primary,County Committeewoman ROSS WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman ROSS WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman ROSS WARD 1 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman ROSS WARD 1 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman ROSS WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman ROSS WARD 2 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman ROSS WARD 2 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman ROSS WARD 3 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman ROSS WARD 3 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman ROSS WARD 3 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman ROSS WARD 3 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman ROSS WARD 4 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman ROSS WARD 4 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman ROSS WARD 4 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman ROSS WARD 4 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman ROSS WARD 5 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman ROSS WARD 5 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman ROSS WARD 5 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman ROSS WARD 5 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman ROSS WARD 6 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman ROSS WARD 6 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman ROSS WARD 6 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman ROSS WARD 6 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman ROSS WARD 7 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman ROSS WARD 7 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman ROSS WARD 7 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman ROSS WARD 7 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman ROSS WARD 8 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman ROSS WARD 8 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman ROSS WARD 8 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman ROSS WARD 9 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman ROSS WARD 9 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman ROSS WARD 9 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman ROSSLYN FARMS,1,1.0
+2020,6,2,primary,County Committeewoman SCOTT WARD 1 DIST 1,2,0.9629629629629629
+2020,6,2,primary,County Committeewoman SCOTT WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman SCOTT WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman SCOTT WARD 2 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman SCOTT WARD 3 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman SCOTT WARD 3 DIST 2,2,0.989247311827957
+2020,6,2,primary,County Committeewoman SCOTT WARD 4 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman SCOTT WARD 4 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman SCOTT WARD 5 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman SCOTT WARD 5 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman SCOTT WARD 6 DIST 1,2,0.9811320754716981
+2020,6,2,primary,County Committeewoman SCOTT WARD 6 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman SCOTT WARD 7 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman SCOTT WARD 7 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman SCOTT WARD 8 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman SCOTT WARD 8 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman SCOTT WARD 9 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman SCOTT WARD 9 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman SEWICKLEY WARD 1,1,1.0
+2020,6,2,primary,County Committeewoman SEWICKLEY WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman SEWICKLEY WARD 2 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman SEWICKLEY WARD 3,1,1.0
+2020,6,2,primary,County Committeewoman SEWICKLEY HTS,1,1.0
+2020,6,2,primary,County Committeewoman SEWICKLEY HILLS,2,0.9702970297029703
+2020,6,2,primary,County Committeewoman SHALER WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman SHALER WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman SHALER WARD 1 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman SHALER WARD 1 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman SHALER WARD 1 DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman SHALER WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman SHALER WARD 2 DIST 2,2,0.9914529914529915
+2020,6,2,primary,County Committeewoman SHALER WARD 2 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman SHALER WARD 2 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman SHALER WARD 2 DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman SHALER WARD 3 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman SHALER WARD 3 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman SHALER WARD 3 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman SHALER WARD 3 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman SHALER WARD 3 DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman SHALER WARD 4 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman SHALER WARD 4 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman SHALER WARD 4 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman SHALER WARD 4 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman SHALER WARD 4 DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman SHALER WARD 5 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman SHALER WARD 5 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman SHALER WARD 5 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman SHALER WARD 5 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman SHALER WARD 5 DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman SHALER WARD 6 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman SHALER WARD 6 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman SHALER WARD 6 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman SHALER WARD 6 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman SHALER WARD 6 DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman SHALER WARD 7 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman SHALER WARD 7 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman SHALER WARD 7 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman SHALER WARD 7 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman SHARPSBURG DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman SHARPSBURG DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman SHARPSBURG DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman S FAYETTE DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman S FAYETTE DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman S FAYETTE DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman S FAYETTE DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman S FAYETTE DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman S FAYETTE DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman S FAYETTE DIST 7,2,0.9746835443037974
+2020,6,2,primary,County Committeewoman S FAYETTE DIST 8,1,1.0
+2020,6,2,primary,County Committeewoman S FAYETTE DIST 9,1,1.0
+2020,6,2,primary,County Committeewoman S FAYETTE DIST 10,1,1.0
+2020,6,2,primary,County Committeewoman S FAYETTE DIST 11,1,1.0
+2020,6,2,primary,County Committeewoman S FAYETTE DIST 12,1,1.0
+2020,6,2,primary,County Committeewoman SOUTH PARK DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman SOUTH PARK DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman SOUTH PARK DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman SOUTH PARK DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman SOUTH PARK DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman SOUTH PARK DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman SOUTH PARK DIST 7,1,1.0
+2020,6,2,primary,County Committeewoman SOUTH PARK DIST 8,1,1.0
+2020,6,2,primary,County Committeewoman SOUTH PARK DIST 9,1,1.0
+2020,6,2,primary,County Committeewoman SOUTH PARK DIST 10,1,1.0
+2020,6,2,primary,County Committeewoman SOUTH PARK DIST 11,1,1.0
+2020,6,2,primary,County Committeewoman SOUTH PARK DIST 12,1,1.0
+2020,6,2,primary,County Committeewoman SOUTH PARK DIST 13,1,1.0
+2020,6,2,primary,County Committeewoman S VERSAILLES,1,1.0
+2020,6,2,primary,County Committeewoman SPRINGDAL BR DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman SPRINGDAL BR DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman SPRINGDAL BR DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman SPRINGDAL BR DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman SPRINGDALE TWP,1,1.0
+2020,6,2,primary,County Committeewoman STOWE WARD 2 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman STOWE WARD 3,1,1.0
+2020,6,2,primary,County Committeewoman STOWE WARD 5,1,1.0
+2020,6,2,primary,County Committeewoman STOWE WARD 7,1,1.0
+2020,6,2,primary,County Committeewoman STOWE WARD 9,1,1.0
+2020,6,2,primary,County Committeewoman SWISSVALE DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman SWISSVALE DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman SWISSVALE DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman SWISSVALE DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman SWISSVALE DIST 8,1,1.0
+2020,6,2,primary,County Committeewoman SWISSVALE DIST 9,1,1.0
+2020,6,2,primary,County Committeewoman SWISSVALE DIST 10,1,1.0
+2020,6,2,primary,County Committeewoman SWISSVALE DIST 11,1,1.0
+2020,6,2,primary,County Committeewoman TARENTUM WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman TARENTUM WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman TARENTUM WARD 2,1,1.0
+2020,6,2,primary,County Committeewoman TARENTUM WARD 3 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman TARENTUM WARD 3 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman THORNBURG,1,1.0
+2020,6,2,primary,County Committeewoman PENNSBURY VILL,1,1.0
+2020,6,2,primary,County Committeewoman TRAFFORD,1,1.0
+2020,6,2,primary,County Committeewoman TURTLE CREEK WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman TURTLE CREEK WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman TURTLE CREEK WARD 2 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman TURTLE CREEK WARD 3 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman UP ST CLAIR WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman UP ST CLAIR WARD 1 DIST 2,2,0.9917355371900827
+2020,6,2,primary,County Committeewoman UP ST CLAIR WARD 1 DIST 3,2,0.9863013698630136
+2020,6,2,primary,County Committeewoman UP ST CLAIR WARD 1 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman UP ST CLAIR WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman UP ST CLAIR WARD 2 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman UP ST CLAIR WARD 2 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman UP ST CLAIR WARD 2 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman UP ST CLAIR WARD 3 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman UP ST CLAIR WARD 3 DIST 2,2,0.9921259842519685
+2020,6,2,primary,County Committeewoman UP ST CLAIR WARD 3 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman UP ST CLAIR WARD 4 DIST 1,2,0.9932885906040269
+2020,6,2,primary,County Committeewoman UP ST CLAIR WARD 4 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman UP ST CLAIR WARD 4 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman UP ST CLAIR WARD 4 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman UP ST CLAIR WARD 5 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman UP ST CLAIR WARD 5 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman UP ST CLAIR WARD 5 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman VERONA DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman VERONA DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman VERSAILLES DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman VERSAILLES DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman WALL,1,1.0
+2020,6,2,primary,County Committeewoman WEST DEER DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman WEST DEER DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman WEST DEER DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman WEST DEER DIST 4,2,0.9906542056074766
+2020,6,2,primary,County Committeewoman WEST DEER DIST 5,2,0.981651376146789
+2020,6,2,primary,County Committeewoman WEST DEER DIST 6,2,0.9693877551020408
+2020,6,2,primary,County Committeewoman WEST DEER DIST 7,2,0.9965156794425087
+2020,6,2,primary,County Committeewoman WEST DEER DIST 8,1,1.0
+2020,6,2,primary,County Committeewoman W ELIZABETH,1,1.0
+2020,6,2,primary,County Committeewoman W HOMESTEAD DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman W HOMESTEAD DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman W HOMESTEAD DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman WEST MIFFLIN DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman WEST MIFFLIN DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman WEST MIFFLIN DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman WEST MIFFLIN DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman WEST MIFFLIN DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman WEST MIFFLIN DIST 7,1,1.0
+2020,6,2,primary,County Committeewoman WEST MIFFLIN DIST 8,1,1.0
+2020,6,2,primary,County Committeewoman WEST MIFFLIN DIST 9,1,1.0
+2020,6,2,primary,County Committeewoman WEST MIFFLIN DIST 10,1,1.0
+2020,6,2,primary,County Committeewoman WEST MIFFLIN DIST 11,1,1.0
+2020,6,2,primary,County Committeewoman WEST MIFFLIN DIST 12,1,1.0
+2020,6,2,primary,County Committeewoman WEST MIFFLIN DIST 13,1,1.0
+2020,6,2,primary,County Committeewoman WEST MIFFLIN DIST 14,1,1.0
+2020,6,2,primary,County Committeewoman WEST MIFFLIN DIST 15,1,1.0
+2020,6,2,primary,County Committeewoman WEST MIFFLIN DIST 16,1,1.0
+2020,6,2,primary,County Committeewoman WEST MIFFLIN DIST 17,1,1.0
+2020,6,2,primary,County Committeewoman WEST MIFFLIN DIST 18,1,1.0
+2020,6,2,primary,County Committeewoman WEST MIFFLIN DIST 19,1,1.0
+2020,6,2,primary,County Committeewoman WEST MIFFLIN DIST 20,1,1.0
+2020,6,2,primary,County Committeewoman WEST MIFFLIN DIST 21,1,1.0
+2020,6,2,primary,County Committeewoman WEST VIEW DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman WEST VIEW DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman WEST VIEW DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman WEST VIEW DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman WEST VIEW DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman WEST VIEW DIST 6,2,0.9857142857142858
+2020,6,2,primary,County Committeewoman WEST VIEW DIST 7,1,1.0
+2020,6,2,primary,County Committeewoman WHITAKER DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman WHITAKER DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman WHITEHALL DIST 1,2,0.9838709677419355
+2020,6,2,primary,County Committeewoman WHITEHALL DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman WHITEHALL DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman WHITEHALL DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman WHITEHALL DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman WHITEHALL DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman WHITEHALL DIST 7,1,1.0
+2020,6,2,primary,County Committeewoman WHITEHALL DIST 8,1,1.0
+2020,6,2,primary,County Committeewoman WHITEHALL DIST 9,1,1.0
+2020,6,2,primary,County Committeewoman WHITEHALL DIST 10,1,1.0
+2020,6,2,primary,County Committeewoman WHITEHALL DIST 11,1,1.0
+2020,6,2,primary,County Committeewoman WHITEHALL DIST 12,1,1.0
+2020,6,2,primary,County Committeewoman WHITEHALL DIST 13,1,1.0
+2020,6,2,primary,County Committeewoman WHITEHALL DIST 14,1,1.0
+2020,6,2,primary,County Committeewoman WHITEHALL DIST 15,2,0.984375
+2020,6,2,primary,County Committeewoman WHITEHALL DIST 16,1,1.0
+2020,6,2,primary,County Committeewoman WHITE OAK DIST 1,2,0.9875
+2020,6,2,primary,County Committeewoman WHITE OAK DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman WHITE OAK DIST 3,2,0.9761904761904762
+2020,6,2,primary,County Committeewoman WHITE OAK DIST 4,2,0.9767441860465116
+2020,6,2,primary,County Committeewoman WHITE OAK DIST 5,2,0.9746835443037974
+2020,6,2,primary,County Committeewoman WHITE OAK DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman WHITE OAK DIST 7,1,1.0
+2020,6,2,primary,County Committeewoman WILKINS WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman WILKINS WARD 1 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman WILKINS WARD 1 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman WILKINS WARD 1 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman WILKINS WARD 1 DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman WILKINS WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman WILKINS WARD 2 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman WILKINSBURG WARD 1 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman WILKINSBURG WARD 1 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman WILKINSBURG WARD 1 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman WILKINSBURG WARD 1 DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman WILKINSBURG WARD 2 DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman WILKINSBURG WARD 2 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman WILKINSBURG WARD 2 DIST 3,1,1.0
+2020,6,2,primary,County Committeewoman WILKINSBURG WARD 2 DIST 5,1,1.0
+2020,6,2,primary,County Committeewoman WILKINSBURG WARD 3 DIST 2,1,1.0
+2020,6,2,primary,County Committeewoman WILKINSBURG WARD 3 DIST 4,1,1.0
+2020,6,2,primary,County Committeewoman WILKINSBURG WARD 3 DIST 6,1,1.0
+2020,6,2,primary,County Committeewoman WILMERDING DIST 1,1,1.0
+2020,6,2,primary,County Committeewoman WILMERDING DIST 2,1,1.0
+2020,6,2,primary,ATTORNEY GENERAL,7,0.5963890832750175
+2020,6,2,primary,AUDITOR GENERAL,14,0.5858534946236559
+2020,6,2,primary,DELEGATE TO THE DEMOCRATIC NATIONAL CONVENTION 15TH CONGRESSIONAL,8,0.23186409550045914
+2020,6,2,primary,STATE TREASURER,8,0.5809135725073377
+2020,6,2,primary,ALT DELEGATE REP NAT CON 15TH CONG DIST,2,0.9642260911042213
+2020,6,2,primary,DELEGATE TO THE REPUBLICAN NATIONAL CONVENTION 15TH CONGRESSIONAL,8,0.19194103194103193
+2020,6,2,primary,REPUBLICAN COUNTY CHAIRPERSON,2,0.9807692307692307
+2020,6,2,primary,DELEGATE TO THE DEMOCRATIC NATIONAL CONVENTION,8,0.2452223913411128
+2020,6,2,primary,ALTERNATE DELEGATE TO THE REPUBLICAN NATIONAL CONVENTION,2,0.9642433820624259
+2020,6,2,primary,DELEGATE TO THE REPUBLICAN NATIONAL CONVENTION,8,0.22007215480485406
+2020,6,2,primary,Registered Voters - Total,1,1.0
+2020,6,2,primary,Registered Voters - DEMOCRATIC,1,1.0
+2020,6,2,primary,Registered Voters - REPUBLICAN,1,1.0
+2020,6,2,primary,Ballots Cast - Total,1,1.0
+2020,6,2,primary,Ballots Cast - DEMOCRATIC,1,1.0
+2020,6,2,primary,Ballots Cast - REPUBLICAN,1,1.0
+2020,6,2,primary,PRESIDENT OF THE UNITED STATES,12,0.6925254813137033
+2020,6,2,primary,REPRESENTATIVE IN CONGRESS 12TH DISTRICT,5,0.756937200083455
+2020,6,2,primary,REPRESENTATIVE IN THE GENERAL ASSEMBLY 82ND DISTRICT,5,0.9140926640926641
+2020,6,2,primary,R - DELEGATE NATL CONVENTION,9,0.15664192475044791
+2020,6,2,primary,R - ALT DELEGATE NATL CONVENTION,4,0.29114719748559453
+2020,6,2,primary,D - DELEGATE NATL CONVENTION,10,0.1722567509644235
+2020,6,2,primary,D - ALT DELEGATE NATL CONVENTION,2,0.7759083150451109
+2020,6,2,primary,ALTERNATE DELEGATE TO THE DEMOCRATIC NATIONAL CONVENTION 16TH,2,0.9687814702920443
+2020,6,2,primary,DELEGATE TO THE DEMCRATIC NATIONAL CONVENTION 16TH DISTRICT,7,0.2974751940269182
+2020,6,2,primary,ALTERNATE DELEGATE TO THE REPUBLICAN NATIONAL CONVENTION 16TH,4,0.3581891792418108
+2020,6,2,primary,DELEGATE TO THE REPUBLICAN NATIONAL CONVENTION 16TH DISTRICT,9,0.2052030268559276
+2020,11,3,general,President,88,0.32985857829928505
+2020,11,3,general,Attorney General,32,0.43165693036267605
+2020,11,3,general,Auditor General,32,0.3863743623463533
+2020,11,3,general,State Treasurer,32,0.40168359412761523
+2020,11,3,general,U.S. House,89,0.0913085172093063
+2020,11,3,general,State Senate,92,0.0738490700659911
+2020,11,3,general,State House,382,0.014164214276980896
+2020,11,3,general,ATTORNEY GENERAL,27,0.4227787319541649
+2020,11,3,general,AUDITOR GENERAL,21,0.4133975903614458
+2020,11,3,general,STATE TREASURER,22,0.4158572645205246
+2020,11,3,general,MEMBER OF COUNCIL WEST CHESTER BOROUGH (7TH WARD),1,1.0
+2020,11,3,general,State Representative,25,0.14600218204488777
+2020,11,3,general,State Assembly,70,0.032442505022482096
+2020,11,3,general,Pittsburgh HRC Amendment,2,0.7832804442681476
+2020,11,3,general,LIQUOR LICENSE REFERENDUM FRANKLIN,2,0.7468181818181818
+2020,11,3,general,PRESIDENT,4,0.5358139936903064
+2020,11,3,general,REFERENDUM SCOTT TWP,2,0.5370615486432826
+2020,11,3,general,Cogan House Ballot Question,2,0.6205035971223022
+2020,11,3,general,REFERENDUM QUESTION MIDDLEBURY TOWNSHIP,2,0.6428571428571429
+2020,11,3,general,Write-In Totals,1,1.0
+2020,11,3,general,MILES TOWNSHIP LIQUOR LICENSE REFERENDUM MILES TWP,3,0.7817589576547231
+2020,11,3,general,RESOLUTION QUESTION Bessemer Boro,2,0.7334558823529411
