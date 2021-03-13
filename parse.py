@@ -11,11 +11,17 @@ class OneElection:
     electionName:str
     office:str
     district:str
+    maybeYear:int
 
     def __init__(self, oneRow):
         self.electionName = oneRow.electionName
         self.office = oneRow.office
         self.district = oneRow.district
+
+        try:
+            self.maybeYear = int(self.electionName[0:4])
+        except ValueError:
+            self.maybeYear = None
 
     def __hash__(self):
         return hash((self.electionName, self.office, self.district))
@@ -37,7 +43,10 @@ class OneRow:
         self.office = rawRowData['Office Name']
         self.district = rawRowData['District Name']
         self.candidateName = rawRowData['Candidate Name']
-        self.numVotes = int(rawRowData['Votes'].replace(',', ''))
+        votes = rawRowData['Votes']
+        if votes == '':
+            votes = '0'
+        self.numVotes = int(votes.replace(',', ''))
 
     def __repr__(self):
         return "%s (%s) for %s in %s: %s received %d votes" % (self.electionName, self.county, self.office, self.district, self.candidateName, self.numVotes)
@@ -91,14 +100,14 @@ def main():
 
     with open('results.csv', 'w', newline='') as csvfile:
         csvwriter = csv.writer(csvfile, delimiter=',')
-        csvwriter.writerow(['electionname', 'district', 'office', 'num candidates', 'percent winner won with', 'all running candidates'])
+        csvwriter.writerow(['year', 'electionname', 'district', 'office', 'num candidates', 'percent winner won with', 'all running candidates'])
         for election, votes in resultsPerElection.items():
             totalVotes = sum(votes.values())
             maxVotes = max(votes.values())
             if totalVotes == 0:
                 continue
             
-            csvwriter.writerow([election.electionName, election.district, election.office, len(votes), maxVotes/totalVotes, '/'.join(votes.keys())])
+            csvwriter.writerow([election.maybeYear, election.electionName, election.district, election.office, len(votes), maxVotes/totalVotes, '/'.join(votes.keys())])
 
 
 if __name__ == "__main__":
