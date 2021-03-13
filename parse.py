@@ -98,7 +98,7 @@ def main():
             if totalVotes == 0:
                 continue
             
-            csvwriter.writerow([election.electionName, election.district, election.office, len(votes), maxVotes/totalVotes, *votes.keys()])
+            csvwriter.writerow([election.electionName, election.district, election.office, len(votes), maxVotes/totalVotes, '/'.join(votes.keys())])
 
 
 if __name__ == "__main__":
