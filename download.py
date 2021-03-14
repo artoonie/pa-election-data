@@ -2,6 +2,7 @@ from selenium import webdriver
 from selenium.common.exceptions import NoSuchElementException
 from selenium.webdriver.support.ui import Select
 
+import glob
 import os
 import time
 
@@ -14,6 +15,12 @@ class DownloadPennElectionData():
 
         # Continue where we left off - assuming it broke at some point
         self.starting_index += len(os.listdir(self.downloads_dir))
+
+        if self.starting_index > 47:
+            # Add 1 to make up for this non-downloaded file in the list.
+            # Otherwise we'll re-download one file, which will trigger the don't-override logic
+            print("You have already passed the 2015 special election, which we skipped.")
+            self.starting_index += 1
 
     def debug_screenshot(self):
         filename = f'screenshot_{self.ss_number}.png'
@@ -39,32 +46,47 @@ class DownloadPennElectionData():
     def num_downloaded_files(self):
         return len(os.listdir(self.downloads_dir))
 
-    def download_file(self):
-        time.sleep(4)
+    def get_latest_download(self):
+        list_of_files = glob.glob(os.path.join(self.downloads_dir, '*.CSV'))
+        return max(list_of_files, key=os.path.getctime)
+
+    def make_filename_safe(self, string):
+        chars = "".join([c for c in string if c.isalpha() or c.isdigit() or c == ' ']).rstrip()
+        chars = chars.replace(' ', '_')
+        return chars
+
+    def rename_latest_file_using_title(self, election_name):
+        from_file = self.get_latest_download()
+        to_file = os.path.join(self.downloads_dir, self.make_filename_safe(election_name)) + ".CSV"
+        os.rename(from_file, to_file)
+
+    def download_file(self, election_name):
+        time.sleep(4)  # Give breathing room for everything dynamic to settle
         self.driver.find_element_by_id('ChkAllOfficeChecked').click()
         self.driver.find_element_by_id('ChkAllCandidateChecked').click()
         self.driver.find_element_by_id('ChkAllPartyChecked').click()
 
-        reportTypeSelector = self.driver.find_element_by_xpath('/html/body/div[1]/div[3]/div/form/div[2]/div/div[3]/div[1]/select')
-        reportTypeOptions = Select(reportTypeSelector)
-        reportTypeOptions.select_by_visible_text('Statewide')
+        report_type_selector = self.driver.find_element_by_xpath('/html/body/div[1]/div[3]/div/form/div[2]/div/div[3]/div[1]/select')
+        report_type_options = Select(report_type_selector)
+        report_type_options.select_by_visible_text('Statewide')
 
-        exportTypeSelector = self.driver.find_element_by_xpath('/html/body/div[1]/div[3]/div/form/div[2]/div/div[3]/div[2]/select')
-        exportTypeOptions = Select(exportTypeSelector)
-        exportTypeOptions.select_by_visible_text('CSV')
+        export_type_selector = self.driver.find_element_by_xpath('/html/body/div[1]/div[3]/div/form/div[2]/div/div[3]/div[2]/select')
+        export_type_options = Select(export_type_selector)
+        export_type_options.select_by_visible_text('CSV')
 
-        origNumFiles = self.num_downloaded_files()
-        submitButton = self.driver.find_element_by_xpath('/html/body/div[1]/div[3]/div/form/div[2]/div/div[5]/div[3]/button')
-        submitButton.click()
+        orig_num_files = self.num_downloaded_files()
+        submit_button = self.driver.find_element_by_xpath('/html/body/div[1]/div[3]/div/form/div[2]/div/div[5]/div[3]/button')
+        submit_button.click()
 
         print("Beginning download")
         count = 0
-        while self.num_downloaded_files() == origNumFiles:
+        while self.num_downloaded_files() == orig_num_files:
             count += 1
             print(".")
-            if count > 60:
-                raise RuntimeError("Failed to download after 60 seconds")
+            if count > 20:
+                raise RuntimeError("Failed to download after 20 seconds")
             time.sleep(1)
+        self.rename_latest_file_using_title(election_name)
         print("Download complete")
 
     def download_all_files(self):
@@ -72,27 +94,35 @@ class DownloadPennElectionData():
         self.driver.get(url)
         time.sleep(1)
 
-        electionSelector = self.driver.find_element_by_xpath('/html/body/div[1]/div[3]/div/form/div[2]/div/div[1]/div[1]/select')
-        electionOptions = Select(electionSelector)
+        election_selector = self.driver.find_element_by_xpath('/html/body/div[1]/div[3]/div/form/div[2]/div/div[1]/div[1]/select')
+        election_options = Select(election_selector)
         election_index = self.starting_index
         errorCount = 0
         while True:
             print("Starting on file", election_index)
             try:
-                electionOptions.select_by_index(election_index)
+                election_options.select_by_index(election_index)
             except NoSuchElementException:
                 print("Found all of em!")
                 break
 
-            print("Selected", electionOptions.first_selected_option.text)
+            election_name = election_options.first_selected_option.text
+            print("Selected", election_name)
+            if election_name == "2015 Special Election 5th Senatorial District":
+                print("Skipping - we know this one has no data and causes a failure")
+                election_index += 1
+                continue
+
             try:
-                self.download_file()
+                self.download_file(election_name)
             except Exception as e:
                 errorCount += 1
                 print("There was an error. Screenshot will be saved - can you tell what's wrong?")
                 self.debug_screenshot()
                 if errorCount > 10:
                     raise e
+                else:
+                    print(e)
 
                 # cool off period, then skip the increment
                 time.sleep(10*errorCount)
