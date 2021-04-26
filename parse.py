@@ -1,4 +1,5 @@
 import csv
+import functools
 import os
 import re
 
@@ -28,6 +29,7 @@ class OneElection:
         self.isSingleWinner = self.is_single_winner(self.office)
         self.isPrimary = 'Primary' in ballotName
         self.isSpecial = 'Special' in ballotName
+        self.isRetention = 'Retention' in self.office
 
         self.party = oneRow.party if self.isPrimary else None
 
@@ -74,10 +76,15 @@ class OneRow:
         self.district = rawRowData['District Name']
         self.candidateName = rawRowData['Candidate Name']
         self.party = rawRowData['Party Name']
-        votes = rawRowData['Votes']
+        self.numVotes = self._to_int(rawRowData['Votes'])
+        # For judge re-elections
+        self.yesVotes = self._to_int(rawRowData['Yes Votes'])
+        self.noVotes = self._to_int(rawRowData['No Votes'])
+
+    def _to_int(self, votes):
         if votes == '':
             votes = '0'
-        self.numVotes = int(votes.replace(',', ''))
+        return int(votes.replace(',', ''))
 
     def __repr__(self):
         return "%s (%s) for %s in %s: %s received %d votes" % (self.electionName, self.county, self.office, self.district, self.candidateName, self.numVotes)
@@ -117,11 +124,31 @@ def getPrecinctResultsPerElection(dataPerBallotName):
 
             # Initialize num votes if needed
             if row.candidateName not in results:
-                results[row.candidateName] = 0
+                if election.isRetention:
+                    results[row.candidateName + " (yes)"] = 0
+                    results[row.candidateName + " (no)"] = 0
+                else:
+                    results[row.candidateName] = 0
 
             # Accumulate votes
-            results[row.candidateName] += row.numVotes
+            if election.isRetention:
+                results[row.candidateName + " (yes)"] += row.yesVotes
+                results[row.candidateName + " (no)"] += row.noVotes
+            else:
+                results[row.candidateName] += row.numVotes
     return resultsPerElection
+
+def summaryString(name, votePct):
+    if not isinstance(votePct, str):
+        return "%s (%02.1f%%)" % (name, 100*votePct)
+    else:
+        return "%s (no votes!)" % (name)
+
+def sortkey(a, b):
+    try:
+        return a<b
+    except:
+        return str(a) < str(b)
 
 def main():
     maindir = 'downloads'
@@ -138,6 +165,7 @@ def main():
                             'party (if primary)',
                             'special election?',
                             'primary?',
+                            'retention?',
                             'single-winner?',
                             'num candidates',
                             'percent winner won with',
@@ -145,13 +173,11 @@ def main():
         for election, votes in resultsPerElection.items():
             totalVotes = sum(votes.values())
             maxVotes = max(votes.values())
-            if totalVotes == 0:
-                continue
 
-            eachVotePct = [v/totalVotes for v in votes.values()]
+            eachVotePct = [v/totalVotes if totalVotes != 0 else "N/A" for v in votes.values()]
             namesAndVotes = list(zip(eachVotePct, votes.keys()))
-            namesAndVotes.sort(reverse=True)
-            namesAndVotes = ["%s (%02.1f%%)" % (nv[1], 100*nv[0]) for nv in namesAndVotes]
+            namesAndVotes.sort(reverse=True, key=functools.cmp_to_key(sortkey))
+            namesAndVotes = [summaryString(nv[1], 100*nv[0]) for nv in namesAndVotes]
             
             csvwriter.writerow([election.year,
                                 election.ballotName,
@@ -161,9 +187,10 @@ def main():
                                 election.party,
                                 election.isSpecial,
                                 election.isPrimary,
+                                election.isRetention,
                                 election.isSingleWinner,
                                 len(votes),
-                                maxVotes/totalVotes,
+                                maxVotes/totalVotes if totalVotes != 0 else "N/A",
                                 *namesAndVotes])
 
 
