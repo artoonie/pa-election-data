@@ -1,4 +1,5 @@
 import csv
+import copy
 import functools
 import os
 import re
@@ -48,6 +49,19 @@ class OneElection:
             "Lieutenant Governor")
         return any(substring in office for substring in known_single_winner_substrings)
 
+    def getOtherPartyPrimary(self):
+        assert self.isPrimary
+
+        e = copy.copy(self)
+        if self.party == 'Democratic':
+            e.party = 'Republican'
+        elif self.party == 'Republican':
+            e.party = 'Democratic'
+        else:
+            raise ValueError("Unexpected party name " + str(self.__dict__))
+
+        return e
+
     def _fields(self):
         if self.isPrimary:
             return (self.ballotName, self.electionName, self.office, self.district, self.party)
@@ -81,6 +95,15 @@ class OneRow:
         self.yesVotes = self._to_int(rawRowData['Yes Votes'])
         self.noVotes = self._to_int(rawRowData['No Votes'])
 
+    def isBallotInitiative(self):
+        ballotInitiativeNamesContain = (
+            'PROPOSED CONSTITUTIONAL',
+            'Joint Resolution',
+            'Bond Question',
+            'Infrastructure Referendum',
+        )
+        return any(c in self.office for c in ballotInitiativeNamesContain)
+
     def _to_int(self, votes):
         if votes == '':
             votes = '0'
@@ -88,7 +111,6 @@ class OneRow:
 
     def __repr__(self):
         return "%s (%s) for %s in %s: %s received %d votes" % (self.electionName, self.county, self.office, self.district, self.candidateName, self.numVotes)
-
 
 def parseFile(filepath):
     d = []
@@ -111,15 +133,27 @@ def parseAllFiles(maindir):
 
     return dataPerBallotName
 
+def createElectionIfDNE(resultsPerElection, election):
+    if election in resultsPerElection:
+        return
+
+    resultsPerElection[election] = {}
+
+    if election.isPrimary:
+        otherPartyPrimary = election.getOtherPartyPrimary()
+        if otherPartyPrimary not in resultsPerElection:
+            resultsPerElection[otherPartyPrimary] = {}
+
 def getPrecinctResultsPerElection(dataPerBallotName):
     resultsPerElection = {}
     for ballotName, election in dataPerBallotName.items():
         for row in election:
+            if row.isBallotInitiative():
+                continue
+
             election = OneElection(ballotName, row)
 
-            # Add election to dataset if we haven't seen it before
-            if election not in resultsPerElection:
-                resultsPerElection[election] = {}
+            createElectionIfDNE(resultsPerElection, election)
             results = resultsPerElection[election]
 
             # Initialize num votes if needed
@@ -172,7 +206,7 @@ def main():
                             *['candidate %d'%d for d in range(1,11)]])
         for election, votes in resultsPerElection.items():
             totalVotes = sum(votes.values())
-            maxVotes = max(votes.values())
+            maxVotes = max(votes.values()) if votes else 0  # handle empty primaries
 
             eachVotePct = [v/totalVotes if totalVotes != 0 else "N/A" for v in votes.values()]
             namesAndVotes = list(zip(eachVotePct, votes.keys()))
